@@ -23,6 +23,12 @@
   {"id": "九头纪", "level": "82", "sex": "男", "content": "大学毕业前，和几个寝室哥们去一家还算比较好的餐厅吃饭。<br/>想到马上要分离了，到吃完时，气氛又点沉沉的。突然冒出只苍蝇在汤盆子上空飞啊飞，8只眼睛就盯着它，估计苍蝇吓坏了，直接掉汤里面溺汤身亡了。洗具来了，我们把服务员叫过来，让她去把领班的叫过来，然后让领班看苍蝇，告诉他“我们把汤喝完了，结果里面有只苍蝇，你们这叫苍蝇汤不叫海带排骨汤啊？你看怎么办吧？”他说给我们换盆。我们不答应，让他去把经理找来。最后汤免费，其他费用打八折。", "comment": "406", "like": "406"}
   ```
 
+- [豆瓣图书 Top 250](https://book.douban.com/top250)
+
+  ```json
+  {"bookRank": "1", "bookTitle": "追风筝的人", "bookImage": "https://img3.doubanio.com/view/subject/m/public/s1727290.jpg", "bookLink": "https://book.douban.com/subject/1770782/", "bookInfo": "[美] 卡勒德·胡赛尼 / 李继宏 / 上海人民出版社 / 2006-5 / 29.00元", "bookScore": "8.9", "bookComment": "437742人评价", "bookQuote": "为你，千千万万遍"}
+  ```
+
 ### 参考
 
 - [Python3网络爬虫开发实战](https://germey.gitbooks.io/python3webspider/content/)

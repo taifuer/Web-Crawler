@@ -68,7 +68,7 @@ if __name__ == '__main__':
         print(url, len(jokeList))
         for joke in jokeList:
             # 保存到文件
-            f = open('./jokes.txt', 'a+', encoding='utf-8')
+            f = open('./qiushi.txt', 'a+', encoding='utf-8')
             try:
                 f.write(json.dumps(joke, ensure_ascii=False) + '\n')
                 # f.write(joke['id'] + ' ')

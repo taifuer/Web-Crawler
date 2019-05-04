@@ -40,7 +40,7 @@ def parse_one_page(html):
 
 # 保存到文件
 def write_to_file(content):
-    with open('douban.txt', 'a', encoding='utf-8') as f:
+    with open('doubanmovie.txt', 'a', encoding='utf-8') as f:
         f.write(json.dumps(content, ensure_ascii=False) + '\n')
         f.close()
 
