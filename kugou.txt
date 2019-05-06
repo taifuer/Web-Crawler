@@ -1,0 +1,484 @@
+{"rank": "1", "singer": "陈雪凝 ", "song": " 你的酒馆对我打了烊", "len": "4:11"}
+{"rank": "2", "singer": "陈雪凝 ", "song": " 绿色", "len": "4:29"}
+{"rank": "3", "singer": "张杰 ", "song": " 只要平凡", "len": "4:07"}
+{"rank": "4", "singer": "孤独诗人 ", "song": " 渡我不渡她", "len": "3:02"}
+{"rank": "5", "singer": "王琪 ", "song": " 万爱千恩", "len": "5:22"}
+{"rank": "6", "singer": "大壮 ", "song": " 伪装", "len": "5:01"}
+{"rank": "7", "singer": "王琪 ", "song": " 站着等你三千年", "len": "6:21"}
+{"rank": "8", "singer": "花姐 ", "song": " 狂浪", "len": "3:01"}
+{"rank": "9", "singer": "周杰伦 ", "song": " 告白气球", "len": "3:35"}
+{"rank": "10", "singer": "NCF", "song": "艾力 ", "len": "2:25"}
+{"rank": "11", "singer": "蕾蕾的小麦霸们、张振轩 ", "song": " 赢在江湖 (童声版)", "len": "3:46"}
+{"rank": "12", "singer": "丁芙妮 ", "song": " 只是太爱你", "len": "4:07"}
+{"rank": "13", "singer": "张紫豪 ", "song": " 可不可以", "len": "4:00"}
+{"rank": "14", "singer": "张敬轩 ", "song": " 只是太爱你", "len": "4:14"}
+{"rank": "15", "singer": "马良、孙茜茹 ", "song": " 往后余生", "len": "3:56"}
+{"rank": "16", "singer": "于文文 ", "song": " 体面", "len": "4:42"}
+{"rank": "17", "singer": "苏谭谭 ", "song": " 渡我不渡她 (正式版)", "len": "2:18"}
+{"rank": "18", "singer": "周传雄 ", "song": " 关不上的窗", "len": "4:53"}
+{"rank": "19", "singer": "花姐 ", "song": " 夜之光", "len": "3:10"}
+{"rank": "20", "singer": "胡夏、郁可唯 ", "song": " 知否知否", "len": "4:36"}
+{"rank": "21", "singer": "廖晶 ", "song": " 爱情小丑", "len": "4:57"}
+{"rank": "22", "singer": "火箭少女101 ", "song": " 卡路里", "len": "3:52"}
+{"rank": "23", "singer": "周传雄 ", "song": " 冬天的秘密", "len": "4:32"}
+{"rank": "24", "singer": "贺一航 ", "song": " 原来占据你内心的人不是我", "len": "4:33"}
+{"rank": "25", "singer": "沈宁 ", "song": " 还有多少个十年 (励志版)", "len": "4:12"}
+{"rank": "26", "singer": "广东雨神、许华升 ", "song": " 陪你到底", "len": "4:00"}
+{"rank": "27", "singer": "王贰浪 ", "song": " 像鱼", "len": "4:45"}
+{"rank": "28", "singer": "陈奕迅 ", "song": " 十年", "len": "3:25"}
+{"rank": "29", "singer": "庄心妍 ", "song": " 再见只是陌生人", "len": "4:12"}
+{"rank": "30", "singer": "刘珂矣 ", "song": " 半壶纱", "len": "3:42"}
+{"rank": "31", "singer": "刘德华 ", "song": " 世界第一等", "len": "4:24"}
+{"rank": "32", "singer": "刘奕辰 ", "song": " 我又想你了", "len": "4:09"}
+{"rank": "33", "singer": "鞠文娴 ", "song": " BINGBIAN病变 (女声版)", "len": "4:07"}
+{"rank": "34", "singer": "阿涵 ", "song": " 我要变好看", "len": "3:20"}
+{"rank": "35", "singer": "书岩、郝琪力 ", "song": " 黎明前的黑暗 (男女合唱版)", "len": "2:20"}
+{"rank": "36", "singer": "王雅洁 ", "song": " 太多", "len": "4:38"}
+{"rank": "37", "singer": "郭聪明 ", "song": " 你会遇见更好的人", "len": "3:46"}
+{"rank": "38", "singer": "姜鹏 ", "song": " 赢在江湖", "len": "3:46"}
+{"rank": "39", "singer": "子芮 ", "song": " 让我做你的眼睛", "len": "3:21"}
+{"rank": "40", "singer": "袁娅维 ", "song": " 说散就散", "len": "4:02"}
+{"rank": "41", "singer": "胡66 ", "song": " 空空如也", "len": "3:31"}
+{"rank": "42", "singer": "iKON ", "song": " 사랑을 했다 (LOVE SCENARIO)", "len": "3:29"}
+{"rank": "43", "singer": "CORSAK、马吟吟 ", "song": " 溯 (Reverse)", "len": "3:12"}
+{"rank": "44", "singer": "陈泫孝(大泫) ", "song": " 静悄悄", "len": "3:05"}
+{"rank": "45", "singer": "李雅微 ", "song": " 我们的纪念", "len": "4:25"}
+{"rank": "46", "singer": "王大毛 ", "song": " 去年夏天", "len": "4:05"}
+{"rank": "47", "singer": "苏谭谭、佳鹏 ", "song": " 渡我不渡她", "len": "3:21"}
+{"rank": "48", "singer": "欣宝儿 ", "song": " 假如有轮回", "len": "3:26"}
+{"rank": "49", "singer": "丫蛋蛋换个心情做自己、崔铭嘉 ", "song": " 口是心非", "len": "3:07"}
+{"rank": "50", "singer": "周笔畅 ", "song": " 最美的期待", "len": "3:30"}
+{"rank": "51", "singer": "林俊呈 ", "song": " 东西", "len": "2:42"}
+{"rank": "52", "singer": "新乐尘符 ", "song": " 123我爱你 (英文版)", "len": "3:19"}
+{"rank": "53", "singer": "白小白 ", "song": " 得过且过", "len": "4:06"}
+{"rank": "54", "singer": "王七七 ", "song": " 我愿意平凡的陪在你身旁", "len": "2:29"}
+{"rank": "55", "singer": "娜美 ", "song": " 醉仙美", "len": "3:21"}
+{"rank": "56", "singer": "贺一航 ", "song": " 请先说你好", "len": "4:49"}
+{"rank": "57", "singer": "张北北 ", "song": " 拥抱你离去", "len": "4:02"}
+{"rank": "58", "singer": "奇然liya、沈谧仁 ", "song": " 琵琶行", "len": "5:35"}
+{"rank": "59", "singer": "Corki ", "song": " 下坠Falling", "len": "3:45"}
+{"rank": "60", "singer": "Christine Welch ", "song": " 一百万个可能", "len": "4:35"}
+{"rank": "61", "singer": "Ice Paper ", "song": " 心如止水", "len": "3:05"}
+{"rank": "62", "singer": "G.E.M.邓紫棋 ", "song": " 光年之外", "len": "3:55"}
+{"rank": "63", "singer": "范玮琪、张韶涵 ", "song": " 如果的事", "len": "3:49"}
+{"rank": "64", "singer": "洛瑶 ", "song": " 落雪三千", "len": "3:38"}
+{"rank": "65", "singer": "黑龙 ", "song": " 38度6", "len": "3:11"}
+{"rank": "66", "singer": "小峰峰、小潘潘 ", "song": " 学猫叫", "len": "3:29"}
+{"rank": "67", "singer": "陈柯宇 ", "song": " 生僻字", "len": "3:36"}
+{"rank": "68", "singer": "张泽熙 ", "song": " 那个女孩", "len": "3:40"}
+{"rank": "69", "singer": "半阳 ", "song": " 一曲相思", "len": "2:48"}
+{"rank": "70", "singer": "展展与罗罗 ", "song": " 沙漠骆驼", "len": "5:38"}
+{"rank": "71", "singer": "于果 ", "song": " 侧脸", "len": "3:37"}
+{"rank": "72", "singer": "李袁杰 ", "song": " 醉千年", "len": "3:40"}
+{"rank": "73", "singer": "杨宗纬、张碧晨 ", "song": " 凉凉", "len": "5:33"}
+{"rank": "74", "singer": "陈势安 ", "song": " 天后", "len": "4:49"}
+{"rank": "75", "singer": "周杰伦 ", "song": " 青花瓷", "len": "3:57"}
+{"rank": "76", "singer": "SHAUN ", "song": " Way Back Home", "len": "3:34"}
+{"rank": "77", "singer": "Katie Sky ", "song": " Monsters", "len": "3:38"}
+{"rank": "78", "singer": "Jennie ", "song": " SOLO", "len": "2:49"}
+{"rank": "79", "singer": "刘德华 ", "song": " 忘情水", "len": "4:24"}
+{"rank": "80", "singer": "岑雨桥、萧全 ", "song": " 触电(爱的魔力转圈圈)", "len": "4:17"}
+{"rank": "81", "singer": "王杰 ", "song": " 不浪漫罪名", "len": "4:47"}
+{"rank": "82", "singer": "Deepmaniak ", "song": " Just Like This", "len": "4:50"}
+{"rank": "83", "singer": "G.E.M.邓紫棋 ", "song": " 倒数", "len": "3:49"}
+{"rank": "84", "singer": "康树龙 ", "song": " 魔鬼中的天使 (醇享版)", "len": "3:59"}
+{"rank": "85", "singer": "周杰伦 ", "song": " 晴天", "len": "4:29"}
+{"rank": "86", "singer": "张韶涵 ", "song": " 阿刁 (Live)", "len": "5:21"}
+{"rank": "87", "singer": "朴树 ", "song": " 平凡之路", "len": "5:02"}
+{"rank": "88", "singer": "广东雨神 ", "song": " 广东爱情故事", "len": "3:34"}
+{"rank": "89", "singer": "岑宁儿 ", "song": " 追光者", "len": "3:55"}
+{"rank": "90", "singer": "孙语赛、萧全 ", "song": " 不仅仅是喜欢", "len": "3:48"}
+{"rank": "91", "singer": "平凡的艾岩 ", "song": " 欠我个未来", "len": "4:30"}
+{"rank": "92", "singer": "李荣浩 ", "song": " 年少有为", "len": "4:39"}
+{"rank": "93", "singer": "何野 ", "song": " 天亮以前说再见", "len": "4:00"}
+{"rank": "94", "singer": "秋裤大叔 ", "song": " 一晃就老了", "len": "4:16"}
+{"rank": "95", "singer": "张冬玲 ", "song": " 灵灵", "len": "3:00"}
+{"rank": "96", "singer": "刘珂矣 ", "song": " 风筝误", "len": "3:58"}
+{"rank": "97", "singer": "胡66、单色凌 ", "song": " 浪人琵琶", "len": "3:44"}
+{"rank": "98", "singer": "王琪 ", "song": " 为你放弃全世界", "len": "3:15"}
+{"rank": "99", "singer": "大壮 ", "song": " 我们不一样", "len": "4:31"}
+{"rank": "100", "singer": "李耀阳 ", "song": " 那个女孩", "len": "3:40"}
+{"rank": "101", "singer": "阿宝、张冬玲 ", "song": " 花开的时候来看我", "len": "3:50"}
+{"rank": "102", "singer": "上河Lin、司南 ", "song": " 盗将行", "len": "3:18"}
+{"rank": "103", "singer": "李玉刚 ", "song": " 刚好遇见你", "len": "3:19"}
+{"rank": "104", "singer": "半阳 ", "song": " 流浪", "len": "3:39"}
+{"rank": "105", "singer": "李行亮 ", "song": " 愿得一人心", "len": "4:37"}
+{"rank": "106", "singer": "茄子蛋 ", "song": " 浪子回头", "len": "4:19"}
+{"rank": "107", "singer": "赵雷 ", "song": " 成都", "len": "5:28"}
+{"rank": "108", "singer": "虎二 ", "song": " 你一定要幸福", "len": "4:19"}
+{"rank": "109", "singer": "Alan Walker ", "song": " Faded", "len": "3:33"}
+{"rank": "110", "singer": "青蛙 ", "song": " 小跳蛙", "len": "2:31"}
+{"rank": "111", "singer": "崔伟立 ", "song": " 情火", "len": "3:28"}
+{"rank": "112", "singer": "杨宗纬 ", "song": " 红尘来去一场梦 (Live)", "len": "4:10"}
+{"rank": "113", "singer": "许佳慧 ", "song": " 预谋", "len": "4:09"}
+{"rank": "114", "singer": "海鸣威 ", "song": " 老人与海", "len": "4:27"}
+{"rank": "115", "singer": "邰正宵 ", "song": " 千纸鹤", "len": "4:02"}
+{"rank": "116", "singer": "音阙诗听 ", "song": " 红昭愿", "len": "2:53"}
+{"rank": "117", "singer": "海鸣威 ", "song": " 你的承诺", "len": "3:52"}
+{"rank": "118", "singer": "小曼 ", "song": " 最远的你是我最近的爱", "len": "4:04"}
+{"rank": "119", "singer": "排骨教主 ", "song": " 清明上河图", "len": "4:33"}
+{"rank": "120", "singer": "门丽 ", "song": " 死心塌地去爱你", "len": "3:39"}
+{"rank": "121", "singer": "Delacey ", "song": " Dream It Possible", "len": "3:24"}
+{"rank": "122", "singer": "魏新雨 ", "song": " 伤离别", "len": "4:00"}
+{"rank": "123", "singer": "海来阿木 ", "song": " 阿果吉曲", "len": "3:45"}
+{"rank": "124", "singer": "雪十郎 ", "song": " 伤过的心", "len": "4:24"}
+{"rank": "125", "singer": "阿悠悠 ", "song": " 无味", "len": "3:57"}
+{"rank": "126", "singer": "赵方婧 ", "song": " 尽头", "len": "4:16"}
+{"rank": "127", "singer": "金久哲 ", "song": " 干就完了", "len": "3:47"}
+{"rank": "128", "singer": "曲肖冰 ", "song": " 天亮以前说再见", "len": "4:12"}
+{"rank": "129", "singer": "邰正宵 ", "song": " 九百九十九朵玫瑰", "len": "4:15"}
+{"rank": "130", "singer": "张靓颖 ", "song": " 我的梦", "len": "3:39"}
+{"rank": "131", "singer": "虎二 ", "song": " 一百万个可能", "len": "4:02"}
+{"rank": "132", "singer": "Olly Murs ", "song": " That Girl", "len": "2:57"}
+{"rank": "133", "singer": "吕大叶、Broma Three ", "song": " 篝火旁", "len": "3:39"}
+{"rank": "134", "singer": "东方晴儿 ", "song": " 再见吧我最爱的你", "len": "3:54"}
+{"rank": "135", "singer": "叶炫清 ", "song": " 九张机", "len": "3:40"}
+{"rank": "136", "singer": "陈小硕 ", "song": " 爱上没可能的人", "len": "2:57"}
+{"rank": "137", "singer": "花姐 ", "song": " 别让我一个人醉", "len": "4:57"}
+{"rank": "138", "singer": "魏新雨 ", "song": " 为你祈祷", "len": "3:53"}
+{"rank": "139", "singer": "毛不易 ", "song": " 像我这样的人 (Live)", "len": "2:46"}
+{"rank": "140", "singer": "海来阿木、阿呷拉古、曲比阿且 ", "song": " 别知己", "len": "4:40"}
+{"rank": "141", "singer": "南宫嘉骏 ", "song": " 错过了那个爱我的人", "len": "4:13"}
+{"rank": "142", "singer": "G", "song": "DRAGON、金钟万 ", "len": "3:41"}
+{"rank": "143", "singer": "胡彦斌 ", "song": " 你要的全拿走", "len": "4:59"}
+{"rank": "144", "singer": "韩红、林俊杰 ", "song": " 飞云之下", "len": "4:26"}
+{"rank": "145", "singer": "阿涵、Ayo97 ", "song": " 感谢你曾来过", "len": "3:56"}
+{"rank": "146", "singer": "胡66 ", "song": " 浪人琵琶", "len": "3:44"}
+{"rank": "147", "singer": "邰正宵 ", "song": " 找一个字代替", "len": "4:44"}
+{"rank": "148", "singer": "王北车 ", "song": " 陷阱", "len": "4:41"}
+{"rank": "149", "singer": "Why Don't We ", "song": " BIG PLANS", "len": "2:59"}
+{"rank": "150", "singer": "海鸣威 ", "song": " 我的回忆不是我的", "len": "3:50"}
+{"rank": "151", "singer": "麦小兜 ", "song": " 9420", "len": "3:49"}
+{"rank": "152", "singer": "陈奕迅 ", "song": " 单车", "len": "3:28"}
+{"rank": "153", "singer": "Vicetone、Cozi Zuehlsdorff ", "song": " Way Back", "len": "3:28"}
+{"rank": "154", "singer": "Vicetone、Cozi Zuehlsdorff ", "song": " Nevada", "len": "3:28"}
+{"rank": "155", "singer": "TFBOYS ", "song": " 大梦想家", "len": "3:46"}
+{"rank": "156", "singer": "九局 ", "song": " 我已经爱上你", "len": "1:32"}
+{"rank": "157", "singer": "妖蝠、汐音社 ", "song": " 赶考", "len": "3:16"}
+{"rank": "158", "singer": "蓝心羽 ", "song": " 寂寞烟火", "len": "4:12"}
+{"rank": "159", "singer": "尚士达 ", "song": " 生而为人", "len": "5:19"}
+{"rank": "160", "singer": "白小白 ", "song": " 最后我们没在一起", "len": "3:19"}
+{"rank": "161", "singer": "校长 ", "song": " 带你去旅行", "len": "3:46"}
+{"rank": "162", "singer": "张小九 ", "song": " 余香", "len": "4:06"}
+{"rank": "163", "singer": "任立佳、千百顺 ", "song": " 两个我们", "len": "3:47"}
+{"rank": "164", "singer": "Selena Gomez、Marshmello ", "song": " Wolves", "len": "3:18"}
+{"rank": "165", "singer": "周杰伦 ", "song": " 稻香", "len": "3:43"}
+{"rank": "166", "singer": "叶圣涛 ", "song": " 还有多少个十年 (原版)", "len": "4:12"}
+{"rank": "167", "singer": "赵鑫 ", "song": " 许多年以后", "len": "5:12"}
+{"rank": "168", "singer": "东方晴儿 ", "song": " 累了痛了就放手", "len": "4:37"}
+{"rank": "169", "singer": "叶炫清 ", "song": " 归去来兮", "len": "3:58"}
+{"rank": "170", "singer": "水木年华 ", "song": " 一生有你", "len": "4:18"}
+{"rank": "171", "singer": "白小白 ", "song": " 我们终究是错过", "len": "3:40"}
+{"rank": "172", "singer": "匿名情书、潘攀 ", "song": " 她的眼睛会唱歌", "len": "2:42"}
+{"rank": "173", "singer": "枯木逢春 ", "song": " 这一生关于你的风景", "len": "4:15"}
+{"rank": "174", "singer": "周杰伦 ", "song": " 七里香", "len": "5:04"}
+{"rank": "175", "singer": "A", "song": "Lin ", "len": "3:57"}
+{"rank": "176", "singer": "彭清、蒙面哥 ", "song": " 我已经爱上你", "len": "3:21"}
+{"rank": "177", "singer": "221小伙伴 ", "song": " 遥远的你 (正式版)", "len": "3:36"}
+{"rank": "178", "singer": "TFBOYS ", "song": " 青春修炼手册", "len": "4:23"}
+{"rank": "179", "singer": "BEYOND ", "song": " 海阔天空", "len": "5:20"}
+{"rank": "180", "singer": "庄心妍 ", "song": " 走着走着就散了", "len": "4:28"}
+{"rank": "181", "singer": "张紫豪 ", "song": " 地铁等待 (正版)", "len": "3:58"}
+{"rank": "182", "singer": "李袁杰 ", "song": " 离人愁", "len": "4:08"}
+{"rank": "183", "singer": "邰正宵 ", "song": " 心要让你听见", "len": "4:26"}
+{"rank": "184", "singer": "周杰伦 ", "song": " 等你下课 (with 杨瑞代)", "len": "4:30"}
+{"rank": "185", "singer": "Sia ", "song": " Move Your Body", "len": "4:07"}
+{"rank": "186", "singer": "孙盛希 ", "song": " 少一点天分", "len": "4:36"}
+{"rank": "187", "singer": "陈雪凝 ", "song": " 没有人心疼我", "len": "4:29"}
+{"rank": "188", "singer": "蒋家驹 (蒋蒋)、曲肖冰 ", "song": " 当真", "len": "3:09"}
+{"rank": "189", "singer": "龙翼、刘晓龙 ", "song": " 多想抱抱你", "len": "3:36"}
+{"rank": "190", "singer": "魏新雨 ", "song": " 最美的情缘", "len": "4:18"}
+{"rank": "191", "singer": "周延英(英子", "song": "effie) ", "len": "4:39"}
+{"rank": "192", "singer": "金志文 ", "song": " 远走高飞 (独唱版)", "len": "4:01"}
+{"rank": "193", "singer": "王小帅 ", "song": " 最近 (正式版)", "len": "3:37"}
+{"rank": "194", "singer": "欢子 ", "song": " 后来你与我无关", "len": "4:34"}
+{"rank": "195", "singer": "梦涵 ", "song": " 爱的故事上集 (dj remix)", "len": "5:37"}
+{"rank": "196", "singer": "艾歌 ", "song": " 一曲红尘", "len": "4:25"}
+{"rank": "197", "singer": "The Chainsmokers、Coldplay ", "song": " Something Just Like This", "len": "4:07"}
+{"rank": "198", "singer": "大壮 ", "song": " 谁不是在流浪", "len": "5:18"}
+{"rank": "199", "singer": "萧全 ", "song": " 海草舞", "len": "4:37"}
+{"rank": "200", "singer": "周笔畅 ", "song": " 岁月神偷", "len": "4:10"}
+{"rank": "201", "singer": "龙梅子、老猫 ", "song": " 都说", "len": "3:35"}
+{"rank": "202", "singer": "彭筝 ", "song": " 一个人就好", "len": "3:23"}
+{"rank": "203", "singer": "华晨宇 ", "song": " 山海 (Live)", "len": "5:09"}
+{"rank": "204", "singer": "徐秉龙、桃十五 ", "song": " 青柠", "len": "3:20"}
+{"rank": "205", "singer": "Taylor Swift ", "song": " I Knew You Were Trouble", "len": "3:38"}
+{"rank": "206", "singer": "今晚打老虎 ", "song": " 触电 (完整版)", "len": "3:23"}
+{"rank": "207", "singer": "毛不易 ", "song": " 牧马城市", "len": "4:18"}
+{"rank": "208", "singer": "周杰伦 ", "song": " 夜曲", "len": "3:44"}
+{"rank": "209", "singer": "Fitz & The Tantrums ", "song": " HandClap", "len": "3:13"}
+{"rank": "210", "singer": "BEYOND ", "song": " 光辉岁月", "len": "4:59"}
+{"rank": "211", "singer": "张北北 ", "song": " 不爱我为什么不早说", "len": "3:12"}
+{"rank": "212", "singer": "欧阳朵 ", "song": " 失去才懂", "len": "4:20"}
+{"rank": "213", "singer": "兔子牙 ", "song": " 你终于等到她", "len": "3:49"}
+{"rank": "214", "singer": "王源 ", "song": " 姑娘 (Live)", "len": "4:14"}
+{"rank": "215", "singer": "于洋 ", "song": " 望爱却步", "len": "3:58"}
+{"rank": "216", "singer": "金志文、徐佳莹 ", "song": " 远走高飞 (合唱版)", "len": "3:55"}
+{"rank": "217", "singer": "王源 ", "song": " 世界上没有真正的感同身受 (Live)", "len": "4:13"}
+{"rank": "218", "singer": "Rag’n’Bone Man ", "song": " Skin", "len": "4:00"}
+{"rank": "219", "singer": "波拉 ", "song": " 今生只为遇见你", "len": "5:04"}
+{"rank": "220", "singer": "周杰伦 ", "song": " 简单爱", "len": "4:31"}
+{"rank": "221", "singer": "冯提莫 ", "song": " 佛系少女", "len": "3:15"}
+{"rank": "222", "singer": "1908公社、新秀团队 ", "song": " 我曾把完整的镜子打碎", "len": "3:34"}
+{"rank": "223", "singer": "天籁天 ", "song": " 你还是从前的你吗", "len": "3:16"}
+{"rank": "224", "singer": "林俊杰 ", "song": " 可惜没如果", "len": "4:58"}
+{"rank": "225", "singer": "1908公社 ", "song": " 我曾 (原版)", "len": "3:21"}
+{"rank": "226", "singer": "东方晴儿 ", "song": " 等风等雨不如等你", "len": "4:57"}
+{"rank": "227", "singer": "姜玉阳 ", "song": " 回忆总想哭", "len": "4:51"}
+{"rank": "228", "singer": "广东雨神 ", "song": " 不下雪的广东", "len": "3:52"}
+{"rank": "229", "singer": "杭娇 ", "song": " 听心", "len": "3:56"}
+{"rank": "230", "singer": "威仔、阿夏 ", "song": " 地久天长玩笑一场", "len": "3:58"}
+{"rank": "231", "singer": "半阳 ", "song": " 我的将军啊", "len": "2:18"}
+{"rank": "232", "singer": "格子兮、刘浩航 ", "song": " 时间是个骗子", "len": "3:58"}
+{"rank": "233", "singer": "许巍 ", "song": " 曾经的你", "len": "4:23"}
+{"rank": "234", "singer": "苏谭谭 ", "song": " 爱情飞不到天堂", "len": "6:33"}
+{"rank": "235", "singer": "毛不易 ", "song": " 不染 (Live)", "len": "5:19"}
+{"rank": "236", "singer": "小倩 ", "song": " 比悲伤更悲伤的故事", "len": "4:36"}
+{"rank": "237", "singer": "阿里郎 ", "song": " 隔壁泰山", "len": "3:19"}
+{"rank": "238", "singer": "王理文 ", "song": " 庸人自扰", "len": "4:07"}
+{"rank": "239", "singer": "刀郎 ", "song": " 西海情歌", "len": "5:44"}
+{"rank": "240", "singer": "Alan Walker、Iselin Solheim ", "song": " Faded", "len": "3:33"}
+{"rank": "241", "singer": "宇桐非、胡雯 ", "song": " 擦肩而过", "len": "3:24"}
+{"rank": "242", "singer": "李袁杰、李俊佑 ", "song": " 醉千年", "len": "3:40"}
+{"rank": "243", "singer": "曲肖冰 ", "song": " 静悄悄", "len": "3:04"}
+{"rank": "244", "singer": "季彦霖 ", "song": " 可不可以 (女声版)", "len": "3:54"}
+{"rank": "245", "singer": "丛铭君 ", "song": " 听说", "len": "4:19"}
+{"rank": "246", "singer": "瞿茜颖 ", "song": " 心如止水", "len": "3:02"}
+{"rank": "247", "singer": "叫我小咪 ", "song": " 即兴", "len": "3:32"}
+{"rank": "248", "singer": "大壮 ", "song": " 差一步", "len": "4:05"}
+{"rank": "249", "singer": "阿涵 ", "song": " 过客", "len": "4:30"}
+{"rank": "250", "singer": "任舒瞳 ", "song": " 那个女孩 (女版)", "len": "3:46"}
+{"rank": "251", "singer": "G.G(张思源) ", "song": " 给陌生的你听", "len": "3:16"}
+{"rank": "252", "singer": "李翊君 ", "song": " 风中的承诺", "len": "5:03"}
+{"rank": "253", "singer": "烟把儿乐队 ", "song": " 纸短情长 (完整版)", "len": "2:53"}
+{"rank": "254", "singer": "夏婉安 ", "song": " 渡我不渡她", "len": "3:51"}
+{"rank": "255", "singer": "范玮琪 ", "song": " 最初的梦想", "len": "4:56"}
+{"rank": "256", "singer": "白小白 ", "song": " 最美情侣", "len": "4:02"}
+{"rank": "257", "singer": "张国荣 ", "song": " 当年情 (粤语)", "len": "4:14"}
+{"rank": "258", "singer": "徐怀钰 ", "song": " 分飞", "len": "3:46"}
+{"rank": "259", "singer": "浪哥 ", "song": " 世界第一等", "len": "3:24"}
+{"rank": "260", "singer": "云菲菲 ", "song": " 殇雪", "len": "4:44"}
+{"rank": "261", "singer": "苏谭谭 ", "song": " 敬昨天", "len": "3:41"}
+{"rank": "262", "singer": "Skylar Grey ", "song": " Everything I Need (Film Version)", "len": "3:16"}
+{"rank": "263", "singer": "林峯 ", "song": " 爱在记忆中找你 (粤语)", "len": "4:14"}
+{"rank": "264", "singer": "兰雨 ", "song": " 最后一次的温柔", "len": "3:16"}
+{"rank": "265", "singer": "孙露 ", "song": " 光辉岁月", "len": "4:15"}
+{"rank": "266", "singer": "卢焱 ", "song": " 一生独一", "len": "4:09"}
+{"rank": "267", "singer": "容祖儿 ", "song": " 挥着翅膀的女孩", "len": "3:02"}
+{"rank": "268", "singer": "刘若英 ", "song": " 后来", "len": "5:41"}
+{"rank": "269", "singer": "魏新雨 ", "song": " 恋人心", "len": "3:28"}
+{"rank": "270", "singer": "刘晓超 ", "song": " 舞女", "len": "4:14"}
+{"rank": "271", "singer": "OneRepublic ", "song": " Apologize", "len": "3:28"}
+{"rank": "272", "singer": "张震岳 ", "song": " 再见", "len": "3:03"}
+{"rank": "273", "singer": "虎二 ", "song": " 离开我你快乐吗", "len": "3:39"}
+{"rank": "274", "singer": "王奕心 ", "song": " 散了就好", "len": "4:13"}
+{"rank": "275", "singer": "街道办GDC、欧阳耀莹 ", "song": " 春娇与志明", "len": "3:25"}
+{"rank": "276", "singer": "可乐就是力量 ", "song": " 暖暖的小时光", "len": "3:20"}
+{"rank": "277", "singer": "梁博 ", "song": " 表态 (Live)", "len": "7:35"}
+{"rank": "278", "singer": "王冕 ", "song": " 勉为其难", "len": "4:09"}
+{"rank": "279", "singer": "王奕心 ", "song": " 我的唇吻不到我爱的人", "len": "4:39"}
+{"rank": "280", "singer": "郑亦辰 ", "song": " 不舍", "len": "3:52"}
+{"rank": "281", "singer": "Yusee西 ", "song": " 心如止水", "len": "3:02"}
+{"rank": "282", "singer": "筷子兄弟 ", "song": " 小苹果", "len": "3:31"}
+{"rank": "283", "singer": "李圣杰 ", "song": " 痴心绝对 (Live)", "len": "5:12"}
+{"rank": "284", "singer": "毛不易 ", "song": " 消愁 (Live)", "len": "2:59"}
+{"rank": "285", "singer": "浪子成龙、歆玉 ", "song": " 将军的泪 (新版)", "len": "2:00"}
+{"rank": "286", "singer": "艾辰 ", "song": " 东坡", "len": "4:16"}
+{"rank": "287", "singer": "王琪 ", "song": " 你是我心里的痛", "len": "3:52"}
+{"rank": "288", "singer": "贺一航 ", "song": " 别爱太满别睡太晚", "len": "3:33"}
+{"rank": "289", "singer": "阿悠悠 ", "song": " 醉仙美", "len": "3:04"}
+{"rank": "290", "singer": "刘刚 ", "song": " 怀念青春", "len": "4:28"}
+{"rank": "291", "singer": "浪哥 ", "song": " 烟", "len": "3:32"}
+{"rank": "292", "singer": "司徒兰芳 ", "song": " 赌徒", "len": "3:58"}
+{"rank": "293", "singer": "徐誉滕 ", "song": " 天使的翅膀", "len": "3:35"}
+{"rank": "294", "singer": "Krizin、Slyleaf ", "song": " Peppermint Lips", "len": "3:58"}
+{"rank": "295", "singer": "黑龙 ", "song": " 盗心贼", "len": "3:34"}
+{"rank": "296", "singer": "李伊曼 ", "song": " 爱情浪费 (女版)", "len": "3:51"}
+{"rank": "297", "singer": "乌兰托娅 ", "song": " 花桥流水", "len": "3:33"}
+{"rank": "298", "singer": "薛之谦 ", "song": " 演员", "len": "4:21"}
+{"rank": "299", "singer": "龙梅子、冷漠 ", "song": " 唱一首情歌", "len": "3:40"}
+{"rank": "300", "singer": "覃诚芳 ", "song": " 幺妹住在十三寨", "len": "3:56"}
+{"rank": "301", "singer": "王旭(旭日阳刚) ", "song": " 这酒怎么喝", "len": "3:49"}
+{"rank": "302", "singer": "SAFIA ", "song": " Counting Sheep", "len": "2:34"}
+{"rank": "303", "singer": "兔子牙 ", "song": " 小白兔遇上卡布奇诺", "len": "2:43"}
+{"rank": "304", "singer": "南征北战NZBZ ", "song": " 最美的期待", "len": "3:57"}
+{"rank": "305", "singer": "等什么君 ", "song": " 辞九门回忆", "len": "4:05"}
+{"rank": "306", "singer": "王丽坤、朱亚文 ", "song": " 漂洋过海来看你", "len": "4:40"}
+{"rank": "307", "singer": "黑崎子 ", "song": " 爱的剧本", "len": "3:28"}
+{"rank": "308", "singer": "侃侃 ", "song": " 滴答", "len": "3:58"}
+{"rank": "309", "singer": "周杰伦 ", "song": " 彩虹", "len": "4:21"}
+{"rank": "310", "singer": "华晨宇 ", "song": " 我管你 (真我版)", "len": "4:26"}
+{"rank": "311", "singer": "残雪 ", "song": " 渡我不渡她", "len": "3:12"}
+{"rank": "312", "singer": "周传雄 ", "song": " 黄昏", "len": "5:44"}
+{"rank": "313", "singer": "刘瑞琦 ", "song": " 房间 (新版)", "len": "4:01"}
+{"rank": "314", "singer": "任贤齐 ", "song": " 伤心太平洋 (Live)", "len": "4:30"}
+{"rank": "315", "singer": "任立佳、吴瑶 ", "song": " 爱上一朵花", "len": "3:22"}
+{"rank": "316", "singer": "威仔、阿夏 ", "song": " 忘川河彼岸花 (新版)", "len": "3:07"}
+{"rank": "317", "singer": "蔡妍 ", "song": " 사랑인가봐! (也许是爱!)", "len": "2:59"}
+{"rank": "318", "singer": "林俊杰 ", "song": " 那些你很冒险的梦", "len": "4:05"}
+{"rank": "319", "singer": "Alan Walker ", "song": " The Spectre", "len": "3:09"}
+{"rank": "320", "singer": "任妙音 ", "song": " 不想今生失去你", "len": "3:51"}
+{"rank": "321", "singer": "李玉刚 ", "song": " 清明上河图", "len": "5:08"}
+{"rank": "322", "singer": "刘旭阳 ", "song": " 流浪的子弹", "len": "4:00"}
+{"rank": "323", "singer": "Ed Sheeran ", "song": " Shape of You", "len": "3:54"}
+{"rank": "324", "singer": "TFBOYS ", "song": " 宠爱", "len": "4:26"}
+{"rank": "325", "singer": "张国荣 ", "song": " 风继续吹", "len": "5:11"}
+{"rank": "326", "singer": "一修 ", "song": " 兴风作浪", "len": "4:14"}
+{"rank": "327", "singer": "丫蛋蛋换个心情做自己、沈虫虫 ", "song": " 月牙湾", "len": "3:39"}
+{"rank": "328", "singer": "曾惜 ", "song": " 讲真的", "len": "3:59"}
+{"rank": "329", "singer": "GALA乐队 ", "song": " 追梦赤子心", "len": "5:19"}
+{"rank": "330", "singer": "祁隆 ", "song": " 别伤害我", "len": "4:39"}
+{"rank": "331", "singer": "雨宗林 ", "song": " 别把疼你的人弄丢了", "len": "4:16"}
+{"rank": "332", "singer": "虎二 ", "song": " 不仅仅是喜欢", "len": "3:41"}
+{"rank": "333", "singer": "郑胖 ", "song": " 无味", "len": "3:56"}
+{"rank": "334", "singer": "李翊君 ", "song": " 雨蝶", "len": "3:52"}
+{"rank": "335", "singer": "Tungevaag & Raaban、Emila ", "song": " Samsara", "len": "3:32"}
+{"rank": "336", "singer": "沈腾、贾玲、华晨宇、关晓彤、王牌对王牌导演组 ", "song": " 王牌对王牌 主...", "len": "4:23"}
+{"rank": "337", "singer": "李羿慧、陈波(台湾) ", "song": " 再会无缘的情人", "len": "3:53"}
+{"rank": "338", "singer": "名决 ", "song": " 断肠人在天涯", "len": "3:13"}
+{"rank": "339", "singer": "王杰 ", "song": " 伤心1999", "len": "3:49"}
+{"rank": "340", "singer": "龙奔 ", "song": " 下定决心离开你", "len": "3:50"}
+{"rank": "341", "singer": "高洋 ", "song": " 以后遇见你", "len": "2:50"}
+{"rank": "342", "singer": "庄心妍 ", "song": " 放过自己", "len": "4:09"}
+{"rank": "343", "singer": "刘德华 ", "song": " 冰雨", "len": "4:39"}
+{"rank": "344", "singer": "于安迪 ", "song": " 逃爱", "len": "4:02"}
+{"rank": "345", "singer": "严少辰 ", "song": " 好嗨哟", "len": "2:52"}
+{"rank": "346", "singer": "易烊千玺 ", "song": " 离骚", "len": "4:26"}
+{"rank": "347", "singer": "张冬玲 ", "song": " 花开的时候你就来看我", "len": "3:48"}
+{"rank": "348", "singer": "王天戈 ", "song": " 心安理得", "len": "4:29"}
+{"rank": "349", "singer": "陈瑞、王峰 ", "song": " 杯中酒 情人旧", "len": "3:33"}
+{"rank": "350", "singer": "季彦霖 ", "song": " 选择失忆", "len": "4:39"}
+{"rank": "351", "singer": "威仔、阿夏 ", "song": " 再也不会打扰你", "len": "3:27"}
+{"rank": "352", "singer": "海生 ", "song": " 情一动心就痛", "len": "3:52"}
+{"rank": "353", "singer": "梦然 ", "song": " 没有你陪伴真的好孤单", "len": "4:44"}
+{"rank": "354", "singer": "周杰伦 ", "song": " 不能说的秘密", "len": "4:56"}
+{"rank": "355", "singer": "王琪 ", "song": " 情人迷", "len": "4:34"}
+{"rank": "356", "singer": "G.E.M.邓紫棋 ", "song": " 喜欢你", "len": "3:59"}
+{"rank": "357", "singer": "安苏羽 ", "song": " 缺氧", "len": "4:31"}
+{"rank": "358", "singer": "薛明媛 ", "song": " 非酋", "len": "2:52"}
+{"rank": "359", "singer": "杰妮 ", "song": " 是否爱过", "len": "4:14"}
+{"rank": "360", "singer": "刘子璇 ", "song": " 嘴巴嘟嘟", "len": "4:08"}
+{"rank": "361", "singer": "王强 ", "song": " 秋天不回来", "len": "4:13"}
+{"rank": "362", "singer": "徐秉龙、沈以诚 ", "song": " 白羊", "len": "2:48"}
+{"rank": "363", "singer": "梅艳芳 ", "song": " 夕阳之歌", "len": "5:08"}
+{"rank": "364", "singer": "郝云 ", "song": " 活着", "len": "4:31"}
+{"rank": "365", "singer": "李伊曼 ", "song": " 时间的过客", "len": "3:06"}
+{"rank": "366", "singer": "冷漠、杨小曼 ", "song": " 心锁", "len": "4:16"}
+{"rank": "367", "singer": "丁当 ", "song": " 猜不透", "len": "3:55"}
+{"rank": "368", "singer": "大哲 ", "song": " 三十出头", "len": "3:23"}
+{"rank": "369", "singer": "曹越 ", "song": " 你的眼角流着我的泪", "len": "4:26"}
+{"rank": "370", "singer": "梦然 ", "song": " 野花", "len": "4:38"}
+{"rank": "371", "singer": "梅艳芳 ", "song": " 似是故人来", "len": "3:55"}
+{"rank": "372", "singer": "罗宇 ", "song": " 只是太爱你", "len": "4:32"}
+{"rank": "373", "singer": "容祖儿 ", "song": " 小小", "len": "4:23"}
+{"rank": "374", "singer": "金润吉 ", "song": " 学到老爱到老", "len": "4:05"}
+{"rank": "375", "singer": "李俊佑、小潘潘 ", "song": " 宠坏", "len": "3:16"}
+{"rank": "376", "singer": "南征北战NZBZ ", "song": " 我的天空", "len": "3:54"}
+{"rank": "377", "singer": "庄心妍 ", "song": " 以后的以后", "len": "4:58"}
+{"rank": "378", "singer": "薛明媛、朱贺 ", "song": " 非酋", "len": "2:52"}
+{"rank": "379", "singer": "门小强 ", "song": " 没有喝够", "len": "3:01"}
+{"rank": "380", "singer": "叶洛洛 ", "song": " 遇见晴天", "len": "2:53"}
+{"rank": "381", "singer": "张赫宣 ", "song": " 我们不该这样的", "len": "3:46"}
+{"rank": "382", "singer": "Moguai、Cheat Codes ", "song": " Hold On (Radio Edit)", "len": "2:59"}
+{"rank": "383", "singer": "邵伟 ", "song": " 2019一起嗨", "len": "3:25"}
+{"rank": "384", "singer": "孙艺琪 ", "song": " 最远的你是我最近的爱", "len": "4:17"}
+{"rank": "385", "singer": "王北车 ", "song": " 突然想起你", "len": "3:48"}
+{"rank": "386", "singer": "Wiz Khalifa、Charlie Puth ", "song": " See You Again", "len": "3:49"}
+{"rank": "387", "singer": "迪丽热巴 ", "song": " 向上的光", "len": "3:29"}
+{"rank": "388", "singer": "伊晗 ", "song": " 孤独为荣 (情景版)", "len": "4:44"}
+{"rank": "389", "singer": "蓝心羽 ", "song": " 末班车", "len": "3:13"}
+{"rank": "390", "singer": "周兴哲 ", "song": " 怎么了", "len": "5:21"}
+{"rank": "391", "singer": "Alan Walker、K", "song": "391、Emelie Hollow ", "len": "3:15"}
+{"rank": "392", "singer": "Lola Coca ", "song": " GQ", "len": "2:43"}
+{"rank": "393", "singer": "王绎龙 ", "song": " 午夜DJ 2019", "len": "3:42"}
+{"rank": "394", "singer": "逃跑计划 ", "song": " 夜空中最亮的星", "len": "4:12"}
+{"rank": "395", "singer": "Owl City、Carly Rae Jepsen ", "song": " Good Time", "len": "3:26"}
+{"rank": "396", "singer": "李孝利 ", "song": " 10 Minutes", "len": "3:54"}
+{"rank": "397", "singer": "夏婉安 ", "song": " 一曲相思", "len": "1:22"}
+{"rank": "398", "singer": "Dj Khazik ", "song": " Dancer in the Dark", "len": "5:11"}
+{"rank": "399", "singer": "刘德华 ", "song": " 今天", "len": "3:48"}
+{"rank": "400", "singer": "莫文蔚 ", "song": " 盛夏的果实", "len": "4:11"}
+{"rank": "401", "singer": "李哈哈 ", "song": " 原谅我很丧", "len": "4:05"}
+{"rank": "402", "singer": "张浩泽 ", "song": " 不必在乎我是谁 (Live)", "len": "4:28"}
+{"rank": "403", "singer": "伍佰&China Blue ", "song": " 挪威的森林", "len": "6:32"}
+{"rank": "404", "singer": "过江龙 ", "song": " 无敌霸王枪", "len": "5:55"}
+{"rank": "405", "singer": "F.I.R. ", "song": " 月牙湾", "len": "5:08"}
+{"rank": "406", "singer": "南合文斗 ", "song": " 让泪化作相思雨", "len": "4:48"}
+{"rank": "407", "singer": "黑龙 ", "song": " 情歌2019", "len": "3:07"}
+{"rank": "408", "singer": "姜玉阳 ", "song": " 忘不掉的伤", "len": "4:13"}
+{"rank": "409", "singer": "G2er ", "song": " 天净沙 秋思", "len": "3:42"}
+{"rank": "410", "singer": "关淑怡 ", "song": " 难得有情人", "len": "3:46"}
+{"rank": "411", "singer": "C.尔尼 ", "song": " 对方正在输入…", "len": "4:12"}
+{"rank": "412", "singer": "黄霄雲 ", "song": " 左手指月 (Live)", "len": "3:05"}
+{"rank": "413", "singer": "唐汉霄 ", "song": " 都挺好 (Live)", "len": "4:39"}
+{"rank": "414", "singer": "G.G(张思源) ", "song": " 小可爱与小领带", "len": "3:25"}
+{"rank": "415", "singer": "央金兰泽 ", "song": " 遇上你是我的缘", "len": "3:26"}
+{"rank": "416", "singer": "崔子格 ", "song": " 卜卦", "len": "3:34"}
+{"rank": "417", "singer": "苏小纯 ", "song": " 黎明前的黑暗 (独唱版)", "len": "2:25"}
+{"rank": "418", "singer": "季彦霖、箱子君 ", "song": " 你根本不懂", "len": "3:28"}
+{"rank": "419", "singer": "季彦霖 ", "song": " 多想留在你身边", "len": "3:30"}
+{"rank": "420", "singer": "孙子涵 ", "song": " 唐人", "len": "3:47"}
+{"rank": "421", "singer": "Sam Hunt ", "song": " Break Up in a Small Town", "len": "3:51"}
+{"rank": "422", "singer": "赵方婧、音阙诗听 ", "song": " 离人殇", "len": "3:22"}
+{"rank": "423", "singer": "小伊伊(美伊) ", "song": " 等他", "len": "3:49"}
+{"rank": "424", "singer": "任妙音 ", "song": " 天在下雨我在想你", "len": "4:26"}
+{"rank": "425", "singer": "虎二 ", "song": " 一个人决定", "len": "4:00"}
+{"rank": "426", "singer": "SING女团 ", "song": " 国潮时代", "len": "3:17"}
+{"rank": "427", "singer": "娜美 ", "song": " 一梦半生", "len": "5:34"}
+{"rank": "428", "singer": "谭联耀 ", "song": " 行星", "len": "4:05"}
+{"rank": "429", "singer": "李圣杰 ", "song": " 手放开", "len": "4:25"}
+{"rank": "430", "singer": "TFBOYS ", "song": " 加油!AMIGO", "len": "4:24"}
+{"rank": "431", "singer": "刘辰希 ", "song": " 专属情歌", "len": "4:35"}
+{"rank": "432", "singer": "Beatrich ", "song": " Superstar", "len": "3:37"}
+{"rank": "433", "singer": "名决 ", "song": " 爱情浪费", "len": "3:51"}
+{"rank": "434", "singer": "张杰 ", "song": " 三生三世", "len": "4:17"}
+{"rank": "435", "singer": "孟莹 ", "song": " 越深爱越心痛", "len": "3:53"}
+{"rank": "436", "singer": "郭一橙 ", "song": " 错的是你 伤的是我", "len": "4:45"}
+{"rank": "437", "singer": "林心如 ", "song": " 落花", "len": "3:25"}
+{"rank": "438", "singer": "金南玲 ", "song": " 逆流成河", "len": "2:05"}
+{"rank": "439", "singer": "夏天Alex ", "song": " 不再联系", "len": "3:24"}
+{"rank": "440", "singer": "卢焱 ", "song": " 流浪", "len": "3:21"}
+{"rank": "441", "singer": "Twins、Boy'z ", "song": " 死性不改", "len": "3:48"}
+{"rank": "442", "singer": "赵小南、杨语莲 ", "song": " 爱情让我心痛 (对唱版)", "len": "4:32"}
+{"rank": "443", "singer": "Deep Chills、IVIE ", "song": " Run Free (Radio Edit)", "len": "2:51"}
+{"rank": "444", "singer": "贺敬轩、六哲 ", "song": " 让全世界知道我爱你", "len": "4:20"}
+{"rank": "445", "singer": "汪苏泷 ", "song": " 一笑倾城", "len": "3:51"}
+{"rank": "446", "singer": "李梦瑶 ", "song": " 找一个字代替", "len": "4:54"}
+{"rank": "447", "singer": "朴惠子 ", "song": " 流浪", "len": "3:40"}
+{"rank": "448", "singer": "马博 ", "song": " 菊花爆满山", "len": "4:05"}
+{"rank": "449", "singer": "刘嘉亮 ", "song": " 美丽女人", "len": "5:02"}
+{"rank": "450", "singer": "排骨教主 ", "song": " 庸人自扰", "len": "4:02"}
+{"rank": "451", "singer": "邰正宵 ", "song": " 一千零一夜", "len": "4:07"}
+{"rank": "452", "singer": "陈瑞 ", "song": " 白狐", "len": "5:09"}
+{"rank": "453", "singer": "张冬玲 ", "song": " 今夜你又不回来", "len": "3:23"}
+{"rank": "454", "singer": "千百顺 ", "song": " 很任性", "len": "3:33"}
+{"rank": "455", "singer": "玺晨 ", "song": " 不再为你痛彻心扉", "len": "3:50"}
+{"rank": "456", "singer": "吴官辉 ", "song": " 火火火起来 (2018版)", "len": "3:43"}
+{"rank": "457", "singer": "祁隆 ", "song": " 如果有一天我们都老了", "len": "4:25"}
+{"rank": "458", "singer": "正云 ", "song": " 不变的情缘", "len": "4:11"}
+{"rank": "459", "singer": "Kelly Clarkson ", "song": " Stronger (What Doesn't Kill You)", "len": "3:42"}
+{"rank": "460", "singer": "范丞丞 ", "song": " Let go", "len": "3:09"}
+{"rank": "461", "singer": "杨坤、郭采洁 ", "song": " 答案", "len": "3:51"}
+{"rank": "462", "singer": "牙牙乐、格子兮 ", "song": " 秋殇别恋", "len": "4:36"}
+{"rank": "463", "singer": "祁隆、乐凡 ", "song": " 等你等了那么久", "len": "5:08"}
+{"rank": "464", "singer": "锦零、音阙诗听 ", "song": " 空山新雨后", "len": "2:53"}
+{"rank": "465", "singer": "Tiger JK、Jinsil ", "song": " Reset", "len": "4:02"}
+{"rank": "466", "singer": "蓝心羽 ", "song": " 小宇", "len": "4:29"}
+{"rank": "467", "singer": "庄心妍 ", "song": " 攻城略地", "len": "3:59"}
+{"rank": "468", "singer": "季彦霖 ", "song": " 你根本不懂", "len": "3:28"}
+{"rank": "469", "singer": "东方晴儿 ", "song": " 爱你却让我心碎", "len": "4:10"}
+{"rank": "470", "singer": "海鸣威、吴琼 ", "song": " 老人与海", "len": "4:27"}
+{"rank": "471", "singer": "李克勤 ", "song": " 月半小夜曲", "len": "4:51"}
+{"rank": "472", "singer": "曲艳娇 ", "song": " 天亮以前说再见", "len": "4:05"}
+{"rank": "473", "singer": "黄小琥 ", "song": " 没那么简单", "len": "5:08"}
+{"rank": "474", "singer": "赵钶 ", "song": " 有人", "len": "4:14"}
+{"rank": "475", "singer": "谢霆锋 ", "song": " 因为爱所以爱", "len": "4:23"}
+{"rank": "476", "singer": "小薇 ", "song": " 伤了我的心不如要了我的命", "len": "4:34"}
+{"rank": "477", "singer": "金南玲、李俊佑 ", "song": " 超级喜欢你", "len": "3:53"}
+{"rank": "478", "singer": "Zealot周星星 ", "song": " 心如止水 (Prod.by 周星星)", "len": "1:07"}
+{"rank": "479", "singer": "誓言 ", "song": " 求佛", "len": "4:46"}
+{"rank": "480", "singer": "梁博 ", "song": " 男孩 (Live)", "len": "5:11"}
+{"rank": "481", "singer": "徐誉滕 ", "song": " 等一分钟", "len": "3:56"}
+{"rank": "482", "singer": "张杰 ", "song": " 天下 (Live)", "len": "3:41"}
+{"rank": "483", "singer": "joysaaaa ", "song": " 两点半", "len": "3:03"}
+{"rank": "484", "singer": "胡66 ", "song": " 时光无言", "len": "4:39"}
