@@ -53,6 +53,12 @@
   {"title": " Python编程 从入门到实践", "href": "http://product.dangdang.com/24003310.html", "image": "http://img3m0.ddimg.cn/67/4/24003310-1_b_7.jpg", "price": "61.40", "author": "[美]埃里克・马瑟斯（Eric Matthes）", "date": "2016-07-01", "publisher": "人民邮电出版社", "comment": "74550", "detail": "上到有编程基础的程序员，下到10岁少年，想入门Python并达到可以开发实际项目的水平，本书是读者*！ 本书是一本全面的从入门到实践的Python编程教程，带领读者快速掌握编程基础知识、编写出能解决实际问题的代码并开发复杂项目。 书中内容分为基础篇和实战篇两部分。基础篇介绍基本的编程概念，如列表、字典、类和循环，并指导读者编写整洁且易于理解的代码。另外还介绍了如何让程序能够与用户交互，以及如何在代码运行前进行测试。实战篇介绍如何利用新学到的知识开发功能丰富的项目：2D游戏《外星人入侵》，数据可视化实战，Web应用程序。"}
   ```
 
+- [京东手机销量排行榜](https://search.jd.com/Search?keyword=%E6%89%8B%E6%9C%BA&enc=utf-8&psort=1&page=184&s=1&scrolling=y)（pyquery）
+
+  ```json
+  {"title": "Apple iPhone XR (A2108) 128GB 黑色 移动联通电信4G手机", "price": "5749.00", "seller": "Apple产品京东自营旗舰店", "url": "https://item.jd.com/100000177760.html", "image": "https://img10.360buyimg.com/n7/jfs/t1/3405/18/3537/69901/5b997c0aE5dc8ed9f/a2c208410ae84d1f.jpg"}
+  ```
+
 ### 参考
 
 - [Python3网络爬虫开发实战](https://germey.gitbooks.io/python3webspider/content/)
