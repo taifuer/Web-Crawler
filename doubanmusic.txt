@@ -1,250 +1,250 @@
-{"name": "We Sing. We Dance. We Steal Things.", "author": "Jason Mraz", "style": "民谣", "time": "2008-05-13", "score": "9.1", "comment": "105760", "image": "https://img3.doubanio.com/view/subject/m/public/s2967252.jpg"}
-{"name": "Viva La Vida", "author": "Coldplay", "style": "摇滚", "time": "2008-06-17", "score": "8.7", "comment": "89440", "image": "https://img3.doubanio.com/view/subject/m/public/s3054604.jpg"}
-{"name": "华丽的冒险", "author": "陈绮贞", "style": "流行", "time": "2005-09-23", "score": "8.9", "comment": "77726", "image": "https://img3.doubanio.com/view/subject/m/public/s1441645.jpg"}
-{"name": "范特西", "author": "周杰伦", "style": "流行", "time": "2001-09-14", "score": "9.2", "comment": "97751", "image": "https://img3.doubanio.com/view/subject/m/public/s3750422.jpg"}
-{"name": "後。青春期的詩", "author": "五月天", "style": "摇滚", "time": "2008-10-23", "score": "8.8", "comment": "79715", "image": "https://img1.doubanio.com/view/subject/m/public/s3316597.jpg"}
-{"name": "是时候", "author": "孙燕姿", "style": "流行", "time": "2011-03-08", "score": "8.6", "comment": "72448", "image": "https://img1.doubanio.com/view/subject/m/public/s4653287.jpg"}
-{"name": "Lenka", "author": "Lenka", "style": "流行", "time": "2008-09-23", "score": "8.5", "comment": "73485", "image": "https://img3.doubanio.com/view/subject/m/public/s3259484.jpg"}
-{"name": "Start from Here", "author": "王若琳", "style": "爵士", "time": "2008-01-11", "score": "8.7", "comment": "67525", "image": "https://img1.doubanio.com/view/subject/m/public/s2874587.jpg"}
-{"name": "旅行的意义", "author": "陈绮贞", "style": "流行", "time": "2004-02-02", "score": "9.2", "comment": "72580", "image": "https://img3.doubanio.com/view/subject/m/public/s2617173.jpg"}
-{"name": "太阳", "author": "陈绮贞", "style": "流行", "time": "2009-01-22", "score": "8.6", "comment": "66809", "image": "https://img1.doubanio.com/view/subject/m/public/s3570839.jpg"}
-{"name": "Once (Soundtrack)", "author": "Glen Hansard", "style": "原声", "time": "2007-05-22", "score": "9.1", "comment": "64963", "image": "https://img3.doubanio.com/view/subject/m/public/s2821080.jpg"}
-{"name": "Not Going Anywhere", "author": "Keren Ann", "style": "民谣", "time": "2004-08-24", "score": "8.9", "comment": "60630", "image": "https://img1.doubanio.com/view/subject/m/public/s1431228.jpg"}
-{"name": "American Idiot", "author": "Green Day", "style": "摇滚", "time": "2004-09-21", "score": "8.9", "comment": "63178", "image": "https://img3.doubanio.com/view/subject/m/public/s1485602.jpg"}
-{"name": "思念是一种病", "author": "张震岳 Csun Yuk", "style": "流行", "time": "2007-07-06", "score": "8.8", "comment": "57046", "image": "https://img1.doubanio.com/view/subject/m/public/s2591057.jpg"}
-{"name": "無與倫比的美麗", "author": "苏打绿", "style": "流行", "time": "2007-11-02", "score": "8.6", "comment": "61836", "image": "https://img3.doubanio.com/view/subject/m/public/s2757483.jpg"}
-{"name": "亲爱的...我还不知道", "author": "张悬", "style": "流行", "time": "2007-07-20", "score": "8.5", "comment": "55749", "image": "https://img3.doubanio.com/view/subject/m/public/s2604331.jpg"}
-{"name": "城市", "author": "张悬", "style": "流行", "time": "2009-05-22", "score": "8.3", "comment": "53942", "image": "https://img3.doubanio.com/view/subject/m/public/s3786340.jpg"}
-{"name": "O", "author": "Damien Rice", "style": "流行", "time": "2003", "score": "9.1", "comment": "49246", "image": "https://img1.doubanio.com/view/subject/m/public/s2838077.jpg"}
-{"name": "Wake Me Up When September Ends", "author": "Green Day", "style": "摇滚", "time": "2005-06-13", "score": "9.3", "comment": "48899", "image": "https://img1.doubanio.com/view/subject/m/public/s3572868.jpg"}
-{"name": "叶惠美", "author": "周杰伦", "style": "流行", "time": "2003-07-31", "score": "8.5", "comment": "63027", "image": "https://img3.doubanio.com/view/subject/m/public/s1425762.jpg"}
-{"name": "七里香", "author": "周杰伦", "style": "流行", "time": "2004", "score": "8.1", "comment": "72240", "image": "https://img3.doubanio.com/view/subject/m/public/s3737076.jpg"}
-{"name": "21", "author": "Adele", "style": "流行", "time": "2011-02-01", "score": "9.0", "comment": "53566", "image": "https://img3.doubanio.com/view/subject/m/public/s4527315.jpg"}
-{"name": "My Life Will...", "author": "张悬", "style": "流行", "time": "2006-06-09", "score": "8.6", "comment": "49520", "image": "https://img1.doubanio.com/view/subject/m/public/s1884457.jpg"}
-{"name": "寓言", "author": "王菲", "style": "流行", "time": "2000", "score": "9.3", "comment": "50949", "image": "https://img3.doubanio.com/view/subject/m/public/s3336480.jpg"}
-{"name": "你在煩惱什麼", "author": "苏打绿 Sodagreen", "style": "流行", "time": "2011-11-11", "score": "8.9", "comment": "48406", "image": "https://img3.doubanio.com/view/subject/m/public/s6987806.jpg"}
-{"name": "感官/世界", "author": "林宥嘉", "style": "流行", "time": "2009-10-30", "score": "8.7", "comment": "50624", "image": "https://img3.doubanio.com/view/subject/m/public/s4039591.jpg"}
-{"name": "Nevermind", "author": "Nirvana", "style": "摇滚", "time": "1991", "score": "9.2", "comment": "47848", "image": "https://img3.doubanio.com/view/subject/m/public/s1632580.jpg"}
-{"name": "八度空间", "author": "周杰伦", "style": "流行", "time": "2002-07-19", "score": "8.5", "comment": "55302", "image": "https://img3.doubanio.com/view/subject/m/public/s4598636.jpg"}
-{"name": "Jay", "author": "周杰伦", "style": "流行", "time": "2000-11-13", "score": "8.9", "comment": "52771", "image": "https://img3.doubanio.com/view/subject/m/public/s8932514.jpg"}
-{"name": "Parachutes", "author": "Coldplay", "style": "流行", "time": "2000-07-10", "score": "9.0", "comment": "45882", "image": "https://img3.doubanio.com/view/subject/m/public/s1400723.jpg"}
-{"name": "我要的幸福", "author": "孙燕姿", "style": "流行", "time": "2000-12-7", "score": "8.9", "comment": "46309", "image": "https://img3.doubanio.com/view/subject/m/public/s3524071.jpg"}
-{"name": "还是会寂寞", "author": "陈绮贞", "style": "流行", "time": "2000", "score": "9.0", "comment": "43545", "image": "https://img1.doubanio.com/view/subject/m/public/s27076587.jpg"}
-{"name": "Let Go", "author": "Avril Lavigne", "style": "摇滚", "time": "2002", "score": "8.8", "comment": "45936", "image": "https://img3.doubanio.com/view/subject/m/public/s2652911.jpg"}
-{"name": "十一月的萧邦", "author": "周杰伦", "style": "流行", "time": "2005-11-01", "score": "7.9", "comment": "57436", "image": "https://img3.doubanio.com/view/subject/m/public/s1456874.jpg"}
-{"name": "橙月", "author": "方大同", "style": "放克/灵歌/R&amp;B", "time": "2008-12-19", "score": "8.5", "comment": "44166", "image": "https://img1.doubanio.com/view/subject/m/public/s3405037.jpg"}
-{"name": "小宇宙", "author": "苏打绿 Sodagreen", "style": "流行", "time": "2006-10-20", "score": "8.7", "comment": "43872", "image": "https://img3.doubanio.com/view/subject/m/public/s1883654.jpg"}
-{"name": "若你碰到他", "author": "蔡健雅", "style": "流行", "time": "2009-08-19", "score": "8.0", "comment": "46302", "image": "https://img3.doubanio.com/view/subject/m/public/s3942165.jpg"}
-{"name": "Lady & Bird", "author": "Lady & Bird", "style": "民谣", "time": "2003", "score": "8.8", "comment": "41794", "image": "https://img3.doubanio.com/view/subject/m/public/s2376100.jpg"}
-{"name": "万能青年旅店", "author": "万能青年旅店", "style": "摇滚", "time": "2010-11-12", "score": "9.1", "comment": "49546", "image": "https://img1.doubanio.com/view/subject/m/public/s4614409.jpg"}
-{"name": "Meteora", "author": "Linkin Park", "style": "摇滚", "time": "2003-03-25", "score": "9.0", "comment": "41498", "image": "https://img1.doubanio.com/view/subject/m/public/s1401378.jpg"}
-{"name": "Back To Bedlam", "author": "James Blunt", "style": "流行", "time": "2004", "score": "8.9", "comment": "40973", "image": "https://img3.doubanio.com/view/subject/m/public/s1461123.jpg"}
-{"name": "苏打绿", "author": "苏打绿", "style": "流行", "time": "2005年9月", "score": "8.6", "comment": "44622", "image": "https://img3.doubanio.com/view/subject/m/public/s2360790.jpg"}
-{"name": "静茹&情歌 别再为他流泪", "author": "梁静茹", "style": "流行", "time": "2009-01-16", "score": "8.4", "comment": "42872", "image": "https://img3.doubanio.com/view/subject/m/public/s3551584.jpg"}
-{"name": "美妙生活", "author": "林宥嘉", "style": "流行", "time": "2011-05-06", "score": "8.6", "comment": "42400", "image": "https://img3.doubanio.com/view/subject/m/public/s6201192.jpg"}
-{"name": "Le Fabuleux destin d'Amélie Poulain", "author": "Yann Tiersen", "style": "原声", "time": "2001-04-23", "score": "9.3", "comment": "39685", "image": "https://img1.doubanio.com/view/subject/m/public/s2881998.jpg"}
-{"name": "Joanna & 王若琳", "author": "王若琳", "style": "", "time": "2009-01-16", "score": "8.1", "comment": "41001", "image": "https://img3.doubanio.com/view/subject/m/public/s3550503.jpg"}
-{"name": "A Plea En Vendredi", "author": "Tamas Wells", "style": "民谣", "time": "2006", "score": "9.0", "comment": "37892", "image": "https://img3.doubanio.com/view/subject/m/public/s2783063.jpg"}
-{"name": "To Hebe", "author": "田馥甄 Hebe", "style": "流行", "time": "2010-09-03", "score": "8.0", "comment": "41016", "image": "https://img3.doubanio.com/view/subject/m/public/s4466905.jpg"}
-{"name": "逆光", "author": "孙燕姿", "style": "流行", "time": "2007-03-22", "score": "8.3", "comment": "44811", "image": "https://img3.doubanio.com/view/subject/m/public/s2333326.jpg"}
-{"name": "只爱陌生人", "author": "王菲", "style": "流行", "time": "1999-09-10", "score": "9.3", "comment": "40321", "image": "https://img1.doubanio.com/view/subject/m/public/s3390958.jpg"}
-{"name": "Music For Tourists", "author": "Chris Garneau", "style": "民谣", "time": "2007-01-23", "score": "8.7", "comment": "37785", "image": "https://img3.doubanio.com/view/subject/m/public/s1989094.jpg"}
-{"name": "The Moment", "author": "孙燕姿", "style": "流行", "time": "2003-08-22", "score": "9.0", "comment": "38409", "image": "https://img3.doubanio.com/view/subject/m/public/s2794840.jpg"}
-{"name": "七", "author": "陈奕迅", "style": "流行", "time": "2003-11-20", "score": "9.4", "comment": "37596", "image": "https://img3.doubanio.com/view/subject/m/public/s3169796.jpg"}
-{"name": "春·日光", "author": "苏打绿", "style": "摇滚", "time": "2009-05-08", "score": "8.0", "comment": "40676", "image": "https://img1.doubanio.com/view/subject/m/public/s3763169.jpg"}
-{"name": "100种生活", "author": "盧廣仲", "style": "民谣", "time": "2008-5-27", "score": "8.3", "comment": "38958", "image": "https://img1.doubanio.com/view/subject/m/public/s3128207.jpg"}
-{"name": "崇拜", "author": "梁静茹", "style": "流行", "time": "2007-11-09", "score": "8.4", "comment": "40395", "image": "https://img1.doubanio.com/view/subject/m/public/s2758489.jpg"}
-{"name": "陈绮贞精选", "author": "陈绮贞", "style": "民谣", "time": "2005", "score": "9.2", "comment": "35159", "image": "https://img3.doubanio.com/view/subject/m/public/s3232974.jpg"}
-{"name": "菊次郎の夏", "author": "Joe Hisaishi", "style": "原声", "time": "1999-05-19", "score": "9.4", "comment": "37843", "image": "https://img3.doubanio.com/view/subject/m/public/s3272681.jpg"}
-{"name": "Fearless", "author": "Taylor Swift", "style": "流行", "time": "2008-11-11", "score": "8.4", "comment": "41209", "image": "https://img3.doubanio.com/view/subject/m/public/s3315133.jpg"}
-{"name": "Life In Cartoon Motion", "author": "Mika", "style": "流行", "time": "2007-02-05", "score": "8.8", "comment": "35793", "image": "https://img3.doubanio.com/view/subject/m/public/s2657592.jpg"}
-{"name": "H³M", "author": "陈奕迅", "style": "流行", "time": "2009-03-23", "score": "8.5", "comment": "38462", "image": "https://img3.doubanio.com/view/subject/m/public/s3666735.jpg"}
-{"name": "神秘嘉宾", "author": "林宥嘉", "style": "流行", "time": "2008-06-03", "score": "8.4", "comment": "39167", "image": "https://img3.doubanio.com/view/subject/m/public/s3113075.jpg"}
-{"name": "Les Choristes", "author": "Bruno Coulais", "style": "", "time": "2004-05-03", "score": "9.4", "comment": "34885", "image": "https://img3.doubanio.com/view/subject/m/public/s1400055.jpg"}
-{"name": "赤子", "author": "范晓萱&100%", "style": "流行", "time": "2009-08-10", "score": "8.1", "comment": "37796", "image": "https://img3.doubanio.com/view/subject/m/public/s3902012.jpg"}
-{"name": "9", "author": "Damien Rice", "style": "民谣", "time": "2006-11-06", "score": "8.9", "comment": "35237", "image": "https://img3.doubanio.com/view/subject/m/public/s1831581.jpg"}
-{"name": "将爱", "author": "王菲", "style": "流行", "time": "2003", "score": "8.7", "comment": "38036", "image": "https://img3.doubanio.com/view/subject/m/public/s2726841.jpg"}
-{"name": "遇见我", "author": "曹方", "style": "流行", "time": "2005年12月", "score": "8.4", "comment": "37060", "image": "https://img3.doubanio.com/view/subject/m/public/s1462740.jpg"}
-{"name": "梵高先生", "author": "李志", "style": "民谣", "time": "2007-01-11", "score": "8.9", "comment": "40752", "image": "https://img1.doubanio.com/view/subject/m/public/s3743777.jpg"}
-{"name": "Timeless 可啦思刻", "author": "方大同", "style": "放克/灵歌/R&amp;B", "time": "2009-08-11", "score": "8.3", "comment": "36219", "image": "https://img3.doubanio.com/view/subject/m/public/s27078161.jpg"}
-{"name": "依然范特西", "author": "周杰伦", "style": "流行", "time": "2006-09-05", "score": "7.7", "comment": "46068", "image": "https://img3.doubanio.com/view/subject/m/public/s1943885.jpg"}
-{"name": "风筝", "author": "孙燕姿", "style": "流行", "time": "2001-07-09", "score": "8.8", "comment": "36450", "image": "https://img3.doubanio.com/view/subject/m/public/s6569456.jpg"}
-{"name": "完美的一天", "author": "孙燕姿", "style": "流行", "time": "2005-10-07", "score": "8.1", "comment": "38203", "image": "https://img3.doubanio.com/view/subject/m/public/s3524062.jpg"}
-{"name": "Say I Am You", "author": "The Weepies", "style": "民谣", "time": "2006", "score": "8.5", "comment": "35885", "image": "https://img1.doubanio.com/view/subject/m/public/s4043738.jpg"}
-{"name": "黑色柳丁", "author": "陶喆", "style": "流行", "time": "2002", "score": "8.8", "comment": "36466", "image": "https://img1.doubanio.com/view/subject/m/public/s27077858.jpg"}
-{"name": "Under My Skin", "author": "Avril Lavigne", "style": "摇滚", "time": "2004-05-12", "score": "8.5", "comment": "35819", "image": "https://img1.doubanio.com/view/subject/m/public/s4716897.jpg"}
-{"name": "Stefanie", "author": "孙燕姿", "style": "流行", "time": "2004-10-1", "score": "8.6", "comment": "34936", "image": "https://img3.doubanio.com/view/subject/m/public/s1418840.jpg"}
-{"name": "The Fame", "author": "Lady Gaga", "style": "电子", "time": "2008-08-19", "score": "8.3", "comment": "36717", "image": "https://img3.doubanio.com/view/subject/m/public/s3224590.jpg"}
-{"name": "Mr. A-Z", "author": "Jason Mraz", "style": "流行", "time": "2005-07-04", "score": "9.0", "comment": "32850", "image": "https://img3.doubanio.com/view/subject/m/public/s2761461.jpg"}
-{"name": "为爱而生", "author": "五月天", "style": "流行", "time": "2006-12-28", "score": "8.4", "comment": "35306", "image": "https://img3.doubanio.com/view/subject/m/public/s1959251.jpg"}
-{"name": "Daniel Powter", "author": "Daniel Powter", "style": "流行", "time": "2006", "score": "8.6", "comment": "33195", "image": "https://img1.doubanio.com/view/subject/m/public/s1661548.jpg"}
-{"name": "I'm Yours", "author": "Jason Mraz", "style": "民谣", "time": "2008-12-16", "score": "9.4", "comment": "33372", "image": "https://img3.doubanio.com/view/subject/m/public/s9074663.jpg"}
-{"name": "在动物园散步才是正经事", "author": "My Little Airport", "style": "流行", "time": "2004-08-07", "score": "8.2", "comment": "35833", "image": "https://img3.doubanio.com/view/subject/m/public/s2552894.jpg"}
-{"name": "时光·漫步", "author": "许巍 Wei Xu", "style": "民谣", "time": "2002-12-01", "score": "8.9", "comment": "33545", "image": "https://img3.doubanio.com/view/subject/m/public/s3839391.jpg"}
-{"name": "生如夏花", "author": "朴树", "style": "流行", "time": "2003-11-28", "score": "8.6", "comment": "38728", "image": "https://img1.doubanio.com/view/subject/m/public/s1966937.jpg"}
-{"name": "我很忙", "author": "周杰伦", "style": "流行", "time": "2007-11-01", "score": "7.3", "comment": "44158", "image": "https://img3.doubanio.com/view/subject/m/public/s2753832.jpg"}
-{"name": "夏 / 狂热", "author": "苏打绿", "style": "摇滚", "time": "2009-09-11", "score": "8.3", "comment": "34455", "image": "https://img3.doubanio.com/view/subject/m/public/s3967123.jpg"}
-{"name": "绝世名伶", "author": "范晓萱", "style": "爵士", "time": "2001-08-25", "score": "8.8", "comment": "31858", "image": "https://img3.doubanio.com/view/subject/m/public/s11363103.jpg"}
-{"name": "哼一首歌 等日落", "author": "曹方", "style": "流行", "time": "2009-11-11", "score": "8.1", "comment": "32509", "image": "https://img3.doubanio.com/view/subject/m/public/s4052811.jpg"}
-{"name": "未完成", "author": "孙燕姿", "style": "流行", "time": "2003-01-10", "score": "8.6", "comment": "32178", "image": "https://img3.doubanio.com/view/subject/m/public/s3524013.jpg"}
-{"name": "OK Computer", "author": "Radiohead", "style": "摇滚", "time": "1997", "score": "9.2", "comment": "32414", "image": "https://img1.doubanio.com/view/subject/m/public/s2789048.jpg"}
-{"name": "Born to Die", "author": "Lana Del Rey", "style": "流行", "time": "2012-01-31", "score": "8.5", "comment": "35114", "image": "https://img1.doubanio.com/view/subject/m/public/s7047247.jpg"}
-{"name": "The Wall", "author": "Pink Floyd", "style": "摇滚", "time": "1979", "score": "9.1", "comment": "32436", "image": "https://img3.doubanio.com/view/subject/m/public/s2413665.jpg"}
-{"name": "不要停止我的音乐", "author": "痛仰", "style": "摇滚", "time": "2008-10", "score": "8.6", "comment": "32788", "image": "https://img3.doubanio.com/view/subject/m/public/s3523286.jpg"}
-{"name": "Hybrid Theory", "author": "Linkin Park", "style": "摇滚", "time": "2000", "score": "8.9", "comment": "30108", "image": "https://img3.doubanio.com/view/subject/m/public/s2838195.jpg"}
-{"name": "MTV Unplugged in New York", "author": "Nirvana", "style": "摇滚", "time": "1994-11-01", "score": "9.5", "comment": "29216", "image": "https://img3.doubanio.com/view/subject/m/public/s3158430.jpg"}
-{"name": "After 17", "author": "陈绮贞", "style": "流行", "time": "2004年12月", "score": "9.2", "comment": "28894", "image": "https://img3.doubanio.com/view/subject/m/public/s4711982.jpg"}
-{"name": "In Between Dreams", "author": "Jack Johnson", "style": "民谣", "time": "2005-03-22", "score": "9.0", "comment": "28692", "image": "https://img1.doubanio.com/view/subject/m/public/s4346679.jpg"}
-{"name": "神的孩子都在跳舞", "author": "五月天 Mayday", "style": "流行", "time": "2004-11-05", "score": "8.9", "comment": "30667", "image": "https://img3.doubanio.com/view/subject/m/public/s3586961.jpg"}
-{"name": "离开地球表面Jump!", "author": "五月天", "style": "流行", "time": "2007-07-20", "score": "8.7", "comment": "31628", "image": "https://img3.doubanio.com/view/subject/m/public/s27078194.jpg"}
-{"name": "不想放手", "author": "陈奕迅", "style": "流行", "time": "2008-06-30", "score": "8.3", "comment": "31663", "image": "https://img3.doubanio.com/view/subject/m/public/s3146476.jpg"}
-{"name": "我的歌声里", "author": "曲婉婷", "style": "流行", "time": "2010-02-24", "score": "9.2", "comment": "30582", "image": "https://img3.doubanio.com/view/subject/m/public/s9127241.jpg"}
-{"name": "The Legend of 1900", "author": "Ennio Morricone", "style": "", "time": "1999-10-12", "score": "9.4", "comment": "29353", "image": "https://img3.doubanio.com/view/subject/m/public/s1426141.jpg"}
-{"name": "孤独的人是可耻的", "author": "张楚", "style": "摇滚", "time": "1994", "score": "9.1", "comment": "30707", "image": "https://img3.doubanio.com/view/subject/m/public/s3266121.jpg"}
-{"name": "徐佳瑩La La首张创作专辑", "author": "徐佳莹", "style": "流行", "time": "2009-05-29", "score": "8.2", "comment": "31616", "image": "https://img3.doubanio.com/view/subject/m/public/s3819180.jpg"}
-{"name": "The Best Damn Thing", "author": "Avril Lavigne", "style": "流行", "time": "2007-04-17", "score": "7.7", "comment": "33014", "image": "https://img3.doubanio.com/view/subject/m/public/s2362973.jpg"}
-{"name": "知足 just my pride 最真杰作选", "author": "五月天", "style": "摇滚", "time": "2005-11-18", "score": "9.1", "comment": "29134", "image": "https://img3.doubanio.com/view/subject/m/public/s1443616.jpg"}
-{"name": "1", "author": "The Beatles", "style": "摇滚", "time": "2000", "score": "9.4", "comment": "27911", "image": "https://img3.doubanio.com/view/subject/m/public/s1400070.jpg"}
-{"name": "魔杰座", "author": "周杰伦", "style": "流行", "time": "2008-10-09", "score": "6.9", "comment": "39253", "image": "https://img3.doubanio.com/view/subject/m/public/s3292023.jpg"}
-{"name": "X&Y", "author": "Coldplay", "style": "摇滚", "time": "2005-06-07", "score": "8.4", "comment": "30553", "image": "https://img3.doubanio.com/view/subject/m/public/s1400630.jpg"}
-{"name": "19", "author": "Adele", "style": "放克/灵歌/R&amp;B", "time": "2008-01-28", "score": "8.3", "comment": "30471", "image": "https://img3.doubanio.com/view/subject/m/public/s2841982.jpg"}
-{"name": "我们在炎热与抑郁的夏天，无法停止抽烟", "author": "My Little Airport", "style": "流行", "time": "2007-10-10", "score": "8.1", "comment": "30519", "image": "https://img3.doubanio.com/view/subject/m/public/s2722802.jpg"}
-{"name": "时光机", "author": "五月天", "style": "摇滚", "time": "2003-11-11", "score": "9.0", "comment": "29041", "image": "https://img3.doubanio.com/view/subject/m/public/s4718016.jpg"}
-{"name": "Yan Zi", "author": "孙燕姿", "style": "流行", "time": "2000-06-08", "score": "9.0", "comment": "28464", "image": "https://img3.doubanio.com/view/subject/m/public/s4067651.jpg"}
-{"name": "Time Flies", "author": "陈奕迅", "style": "流行", "time": "2010-03-12", "score": "8.7", "comment": "28735", "image": "https://img3.doubanio.com/view/subject/m/public/s4217513.jpg"}
-{"name": "失败者的飞翔", "author": "陈绮贞", "style": "流行", "time": "2008-07-13", "score": "8.6", "comment": "28110", "image": "https://img1.doubanio.com/view/subject/m/public/s3164468.jpg"}
-{"name": "My Love", "author": "田馥甄", "style": "流行", "time": "2011-09-02", "score": "8.0", "comment": "30602", "image": "https://img3.doubanio.com/view/subject/m/public/s6884320.jpg"}
-{"name": "亲亲", "author": "梁静茹", "style": "流行", "time": "2006-10-06", "score": "8.1", "comment": "29643", "image": "https://img1.doubanio.com/view/subject/m/public/s1876827.jpg"}
-{"name": "你王菲所以我王菲", "author": "王菲", "style": "流行", "time": "2002", "score": "9.4", "comment": "28205", "image": "https://img1.doubanio.com/view/subject/m/public/s2951748.jpg"}
-{"name": "Stranger Under My Skin", "author": "陈奕迅", "style": "流行", "time": "2011-02-22", "score": "8.6", "comment": "28145", "image": "https://img3.doubanio.com/view/subject/m/public/s4644120.jpg"}
-{"name": "Come Away with Me", "author": "Norah Jones", "style": "爵士", "time": "2002", "score": "8.8", "comment": "27518", "image": "https://img1.doubanio.com/view/subject/m/public/s4714568.jpg"}
-{"name": "平凡之路", "author": "朴树", "style": "", "time": "2014-07-16", "score": "8.9", "comment": "36338", "image": "https://img1.doubanio.com/view/subject/m/public/s27326029.jpg"}
-{"name": "认了吧", "author": "陈奕迅", "style": "流行", "time": "2007-04-24", "score": "8.7", "comment": "29121", "image": "https://img1.doubanio.com/view/subject/m/public/s3947069.jpg"}
-{"name": "21st Century Breakdown", "author": "Green Day", "style": "摇滚", "time": "2009-05-15", "score": "8.5", "comment": "27582", "image": "https://img3.doubanio.com/view/subject/m/public/s3727625.jpg"}
-{"name": "神的游戏", "author": "張懸", "style": "流行", "time": "2012-08-10", "score": "8.7", "comment": "29171", "image": "https://img1.doubanio.com/view/subject/m/public/s11174008.jpg"}
-{"name": "唱游", "author": "王菲", "style": "流行", "time": "1998", "score": "9.2", "comment": "28637", "image": "https://img3.doubanio.com/view/subject/m/public/s2749634.jpg"}
-{"name": "花的姿态：演唱会经典实录", "author": "陈绮贞", "style": "", "time": "2007-05-18", "score": "9.2", "comment": "25261", "image": "https://img1.doubanio.com/view/subject/m/public/s2377978.jpg"}
-{"name": "我去2000年", "author": "朴树", "style": "流行", "time": "1999-1", "score": "9.1", "comment": "28695", "image": "https://img1.doubanio.com/view/subject/m/public/s27208919.jpg"}
-{"name": "Young For You", "author": "GALA", "style": "摇滚", "time": "2004", "score": "8.7", "comment": "27133", "image": "https://img1.doubanio.com/view/subject/m/public/s1629838.jpg"}
-{"name": "自选集", "author": "孙燕姿", "style": "流行", "time": "2002年1月", "score": "8.9", "comment": "26154", "image": "https://img1.doubanio.com/view/subject/m/public/s3151869.jpg"}
-{"name": "理性与感性 作品音乐会", "author": "李宗盛 Jonathan", "style": "流行", "time": "2007-09-28", "score": "9.5", "comment": "25605", "image": "https://img3.doubanio.com/view/subject/m/public/s2891182.jpg"}
-{"name": "比天空还远", "author": "曹方", "style": "流行", "time": "2007-11-20", "score": "8.5", "comment": "26463", "image": "https://img3.doubanio.com/view/subject/m/public/s2755385.jpg"}
-{"name": "黑梦", "author": "窦唯", "style": "摇滚", "time": "1994-10", "score": "9.2", "comment": "28363", "image": "https://img3.doubanio.com/view/subject/m/public/s3081692.jpg"}
-{"name": "介乎法國與旺角的詩意", "author": "My Little Airport", "style": "流行", "time": "2009-11-20", "score": "8.1", "comment": "28877", "image": "https://img3.doubanio.com/view/subject/m/public/s4057285.jpg"}
-{"name": "不能说的秘密", "author": "周杰倫", "style": "", "time": "2007-08-13", "score": "8.7", "comment": "30447", "image": "https://img1.doubanio.com/view/subject/m/public/s2652097.jpg"}
-{"name": "丝路", "author": "梁静茹 Fish", "style": "流行", "time": "2005-9-16", "score": "8.2", "comment": "27418", "image": "https://img3.doubanio.com/view/subject/m/public/s1966952.jpg"}
-{"name": "All The Lost Souls", "author": "James Blunt", "style": "流行", "time": "2007-09-18", "score": "8.5", "comment": "25553", "image": "https://img3.doubanio.com/view/subject/m/public/s2609413.jpg"}
-{"name": "F.I.R.", "author": "F.I.R.", "style": "流行", "time": "2004-04-29", "score": "8.6", "comment": "28800", "image": "https://img3.doubanio.com/view/subject/m/public/s4124010.jpg"}
-{"name": "上五楼的快活", "author": "陈奕迅", "style": "流行", "time": "2009-09-23", "score": "7.7", "comment": "27642", "image": "https://img3.doubanio.com/view/subject/m/public/s3969572.jpg"}
-{"name": "Minutes to Midnight", "author": "Linkin Park", "style": "摇滚", "time": "2007-05-15", "score": "8.2", "comment": "25898", "image": "https://img3.doubanio.com/view/subject/m/public/s2665031.jpg"}
-{"name": "GOODBYE & HELLO", "author": "蔡健雅", "style": "流行", "time": "2007-10-19", "score": "8.6", "comment": "25374", "image": "https://img1.doubanio.com/view/subject/m/public/s27067658.jpg"}
-{"name": "Someone Like You", "author": "Adele", "style": "放克/灵歌/R&amp;B", "time": "2011-01-24", "score": "9.5", "comment": "26840", "image": "https://img3.doubanio.com/view/subject/m/public/s4689205.jpg"}
-{"name": "迟到千年", "author": "苏打绿", "style": "流行", "time": "2006-09-18", "score": "8.8", "comment": "24541", "image": "https://img3.doubanio.com/view/subject/m/public/s4567536.jpg"}
-{"name": "The Dark Side of the Moon", "author": "Pink Floyd", "style": "摇滚", "time": "1973", "score": "9.1", "comment": "27760", "image": "https://img3.doubanio.com/view/subject/m/public/s4415985.jpg"}
-{"name": "王菲 2001", "author": "王菲", "style": "流行", "time": "2001", "score": "9.1", "comment": "25134", "image": "https://img3.doubanio.com/view/subject/m/public/s27066361.jpg"}
-{"name": "夜空中最亮的星", "author": "逃跑计划", "style": "流行", "time": "2011-04-12", "score": "9.5", "comment": "29033", "image": "https://img3.doubanio.com/view/subject/m/public/s7050455.jpg"}
-{"name": "追梦痴子心", "author": "GALA", "style": "流行", "time": "2011-03-24", "score": "8.8", "comment": "26874", "image": "https://img1.doubanio.com/view/subject/m/public/s26743139.jpg"}
-{"name": "宝贝", "author": "莫文蔚", "style": "流行", "time": "2010-07-26", "score": "7.9", "comment": "25637", "image": "https://img3.doubanio.com/view/subject/m/public/s4425103.jpg"}
-{"name": "黑白灰", "author": "陈奕迅", "style": "流行", "time": "2003", "score": "9.1", "comment": "23923", "image": "https://img3.doubanio.com/view/subject/m/public/s4088274.jpg"}
-{"name": "安和桥北", "author": "宋冬野", "style": "民谣", "time": "2013-08-26", "score": "8.7", "comment": "30121", "image": "https://img1.doubanio.com/view/subject/m/public/s27029428.jpg"}
-{"name": "Prisoner of Love", "author": "宇多田ヒカル", "style": "流行", "time": "2008-05-21", "score": "9.2", "comment": "23355", "image": "https://img3.doubanio.com/view/subject/m/public/s3104656.jpg"}
-{"name": "Groupies 吉他手", "author": "陈绮贞", "style": "流行", "time": "2002-08-02", "score": "9.1", "comment": "23580", "image": "https://img3.doubanio.com/view/subject/m/public/s3268875.jpg"}
-{"name": "Now The Day Is Over", "author": "The Innocence Mission", "style": "民谣", "time": "2004", "score": "8.4", "comment": "24025", "image": "https://img3.doubanio.com/view/subject/m/public/s1506405.jpg"}
-{"name": "Apologize", "author": "Timbaland", "style": "", "time": "2007-11-06", "score": "9.2", "comment": "25085", "image": "https://img3.doubanio.com/view/subject/m/public/s6780751.jpg"}
-{"name": "阿菲正传", "author": "王菲", "style": "流行", "time": "2009-06-25", "score": "9.4", "comment": "23080", "image": "https://img3.doubanio.com/view/subject/m/public/s3850703.jpg"}
-{"name": "跨时代", "author": "周杰伦", "style": "流行", "time": "2010-05-14", "score": "7.0", "comment": "28281", "image": "https://img1.doubanio.com/view/subject/m/public/s4364499.jpg"}
-{"name": "Leave", "author": "孙燕姿", "style": "流行", "time": "2002-5-21", "score": "8.7", "comment": "23716", "image": "https://img3.doubanio.com/view/subject/m/public/s2693584.jpg"}
-{"name": "被禁忌的游戏", "author": "李志", "style": "民谣", "time": "2004-12", "score": "8.8", "comment": "25164", "image": "https://img1.doubanio.com/view/subject/m/public/s2650727.jpg"}
-{"name": "What's Going On....?", "author": "陈奕迅", "style": "流行", "time": "2006", "score": "9.1", "comment": "23466", "image": "https://img3.doubanio.com/view/subject/m/public/s1933423.jpg"}
-{"name": "第二人生 末日版", "author": "五月天", "style": "流行", "time": "2011-12-20", "score": "8.9", "comment": "23491", "image": "https://img3.doubanio.com/view/subject/m/public/s7021494.jpg"}
-{"name": "樂之路", "author": "陶喆", "style": "流行", "time": "2003-08-08", "score": "9.0", "comment": "22701", "image": "https://img3.doubanio.com/view/subject/m/public/s3522345.jpg"}
-{"name": "It Won't Be Soon Before Long", "author": "Maroon 5", "style": "流行", "time": "2007-05-22", "score": "8.2", "comment": "23873", "image": "https://img3.doubanio.com/view/subject/m/public/s2374986.jpg"}
-{"name": "如果你冷", "author": "张悬", "style": "民谣", "time": "2008-10-20", "score": "8.3", "comment": "24048", "image": "https://img1.doubanio.com/view/subject/m/public/s3321977.jpg"}
-{"name": "陌生人", "author": "蔡健雅 Tanya Chua", "style": "流行", "time": "2003-06-00", "score": "8.7", "comment": "23299", "image": "https://img1.doubanio.com/view/subject/m/public/s1647637.jpg"}
-{"name": "浮躁", "author": "王菲", "style": "摇滚", "time": "1996", "score": "9.2", "comment": "25126", "image": "https://img3.doubanio.com/view/subject/m/public/s3631071.jpg"}
-{"name": "C'est La Vie", "author": "自然卷", "style": "民谣", "time": "2004", "score": "8.2", "comment": "23662", "image": "https://img3.doubanio.com/view/subject/m/public/s1446010.jpg"}
-{"name": "在一起", "author": "刘若英", "style": "流行", "time": "2010-04-16", "score": "7.8", "comment": "24025", "image": "https://img3.doubanio.com/view/subject/m/public/s4305186.jpg"}
-{"name": "These Friends Of Mine", "author": "Rosie Thomas", "style": "民谣", "time": "2007-03-13", "score": "8.7", "comment": "22433", "image": "https://img1.doubanio.com/view/subject/m/public/s2674348.jpg"}
-{"name": "陪我歌唱", "author": "苏打绿", "style": "", "time": "2008", "score": "9.1", "comment": "22103", "image": "https://img3.doubanio.com/view/subject/m/public/s3076261.jpg"}
-{"name": "It's Not Me, It's You", "author": "Lily Allen", "style": "流行", "time": "2009-02-09", "score": "8.5", "comment": "23261", "image": "https://img3.doubanio.com/view/subject/m/public/s4716636.jpg"}
-{"name": "The Rose~I Love Cinemas~", "author": "手嶌葵", "style": "流行", "time": "2008-03-05", "score": "9.2", "comment": "22183", "image": "https://img1.doubanio.com/view/subject/m/public/s2969728.jpg"}
-{"name": "我爱南京", "author": "李志", "style": "民谣", "time": "2009-10-16", "score": "8.6", "comment": "25481", "image": "https://img3.doubanio.com/view/subject/m/public/s4008894.jpg"}
-{"name": "消失的光年", "author": "大乔小乔", "style": "民谣", "time": "2007-07-12", "score": "8.2", "comment": "22596", "image": "https://img1.doubanio.com/view/subject/m/public/s2616588.jpg"}
-{"name": "还有别的办法吗", "author": "范晓萱", "style": "流行", "time": "2004", "score": "8.7", "comment": "21648", "image": "https://img3.doubanio.com/view/subject/m/public/s3636124.jpg"}
-{"name": "日光倾城", "author": "卡奇社", "style": "流行", "time": "2007-04-20", "score": "8.1", "comment": "22913", "image": "https://img3.doubanio.com/view/subject/m/public/s2378153.jpg"}
-{"name": "A Little Love", "author": "冯曦妤", "style": "流行", "time": "2008-11-20", "score": "8.4", "comment": "22032", "image": "https://img3.doubanio.com/view/subject/m/public/s3350764.jpg"}
-{"name": "Yellow", "author": "Coldplay", "style": "摇滚", "time": "2000-07-03", "score": "9.3", "comment": "25326", "image": "https://img3.doubanio.com/view/subject/m/public/s4087364.jpg"}
-{"name": "Hopes And Fears", "author": "Keane", "style": "摇滚", "time": "2004", "score": "8.9", "comment": "21181", "image": "https://img3.doubanio.com/view/subject/m/public/s1492974.jpg"}
-{"name": "U87", "author": "陈奕迅", "style": "流行", "time": "2005-06-07", "score": "9.3", "comment": "21932", "image": "https://img3.doubanio.com/view/subject/m/public/s3856032.jpg"}
-{"name": "Lady Sleep", "author": "Maximilian Hecker", "style": "民谣", "time": "2005", "score": "8.8", "comment": "20914", "image": "https://img1.doubanio.com/view/subject/m/public/s1794177.jpg"}
-{"name": "天空の城ラピュタ サウンドトラック 飛行石の謎", "author": "久石譲(Joe Hisaishi)", "style": "原声", "time": "1993-12-21", "score": "9.5", "comment": "21291", "image": "https://img3.doubanio.com/view/subject/m/public/s1489321.jpg"}
-{"name": "新长征路上的摇滚", "author": "崔健", "style": "摇滚", "time": "1989", "score": "9.2", "comment": "22915", "image": "https://img3.doubanio.com/view/subject/m/public/s8868552.jpg"}
-{"name": "小飞行", "author": "棉花糖", "style": "民谣", "time": "2009-05-01", "score": "7.9", "comment": "22124", "image": "https://img3.doubanio.com/view/subject/m/public/s4715963.jpg"}
-{"name": "春生", "author": "好妹妹乐队", "style": "民谣", "time": "2012-07-01", "score": "8.8", "comment": "21562", "image": "https://img1.doubanio.com/view/subject/m/public/s11095208.jpg"}
-{"name": "讓我想一想", "author": "陈绮贞", "style": "民谣", "time": "1998-07-14", "score": "9.0", "comment": "20876", "image": "https://img3.doubanio.com/view/subject/m/public/s3821060.jpg"}
-{"name": "未来", "author": "方大同", "style": "放克/灵歌/R&amp;B", "time": "2007-12-28", "score": "8.3", "comment": "21584", "image": "https://img3.doubanio.com/view/subject/m/public/s2839973.jpg"}
-{"name": "爱爱爱", "author": "方大同", "style": "流行", "time": "2006-12", "score": "8.6", "comment": "21227", "image": "https://img3.doubanio.com/view/subject/m/public/s1981880.jpg"}
-{"name": "世界", "author": "逃跑计划", "style": "摇滚", "time": "2011-12-31", "score": "9.0", "comment": "21617", "image": "https://img1.doubanio.com/view/subject/m/public/s28104019.jpg"}
-{"name": "七天", "author": "盧廣仲", "style": "民谣", "time": "2009-10-30", "score": "7.8", "comment": "21787", "image": "https://img3.doubanio.com/view/subject/m/public/s4039256.jpg"}
-{"name": "Nirvana", "author": "Nirvana", "style": "摇滚", "time": "2002-10-29", "score": "9.2", "comment": "20107", "image": "https://img3.doubanio.com/view/subject/m/public/s3020073.jpg"}
-{"name": "A Rush of  Blood to the Head", "author": "Coldplay", "style": "流行", "time": "2002", "score": "8.6", "comment": "21578", "image": "https://img3.doubanio.com/view/subject/m/public/s8904216.jpg"}
-{"name": "The Velvet Underground & Nico", "author": "The Velvet Underground", "style": "摇滚", "time": "1967-04", "score": "9.0", "comment": "22257", "image": "https://img3.doubanio.com/view/subject/m/public/s1883423.jpg"}
-{"name": "Love The Way You Lie", "author": "Eminem", "style": "说唱", "time": "2010-08-20", "score": "9.3", "comment": "21775", "image": "https://img1.doubanio.com/view/subject/m/public/s4420058.jpg"}
-{"name": "天空", "author": "王菲", "style": "流行", "time": "1994", "score": "9.3", "comment": "21345", "image": "https://img3.doubanio.com/view/subject/m/public/s3681285.jpg"}
-{"name": "The Boat That Rocked", "author": "Original Soundtrack", "style": "原声", "time": "2009-03-30", "score": "9.2", "comment": "19387", "image": "https://img3.doubanio.com/view/subject/m/public/s4194004.jpg"}
-{"name": "(What's The Story) Morning Glory?", "author": "Oasis", "style": "摇滚", "time": "1995", "score": "9.2", "comment": "20962", "image": "https://img3.doubanio.com/view/subject/m/public/s1944493.jpg"}
-{"name": "PUSSY", "author": "陈绮贞", "style": "民谣", "time": "2007-02-08", "score": "8.7", "comment": "20092", "image": "https://img3.doubanio.com/view/subject/m/public/s2144095.jpg"}
-{"name": "呼吸", "author": "Salyu", "style": "原声", "time": "2001", "score": "9.0", "comment": "19794", "image": "https://img1.doubanio.com/view/subject/m/public/s2714357.jpg"}
-{"name": "Fallen", "author": "Evanescence", "style": "摇滚", "time": "2003", "score": "8.5", "comment": "20329", "image": "https://img3.doubanio.com/view/subject/m/public/s2189392.jpg"}
-{"name": "黑豹", "author": "黑豹", "style": "摇滚", "time": "1992-12-01", "score": "9.1", "comment": "20978", "image": "https://img3.doubanio.com/view/subject/m/public/s1401153.jpg"}
-{"name": "十年一刻", "author": "苏打绿", "style": "流行", "time": "2010-08-27", "score": "8.8", "comment": "20573", "image": "https://img1.doubanio.com/view/subject/m/public/s4462549.jpg"}
-{"name": "恋爱的力量", "author": "梁静茹", "style": "流行", "time": "2003年3月", "score": "8.9", "comment": "19956", "image": "https://img1.doubanio.com/view/subject/m/public/s1412559.jpg"}
-{"name": "Suede", "author": "Suede", "style": "摇滚", "time": "1993", "score": "8.9", "comment": "20658", "image": "https://img3.doubanio.com/view/subject/m/public/s1496506.jpg"}
-{"name": "The Bends", "author": "Radiohead", "style": "摇滚", "time": "1995", "score": "9.1", "comment": "21289", "image": "https://img1.doubanio.com/view/subject/m/public/s4713649.jpg"}
-{"name": "琵琶相", "author": "林海", "style": "轻音乐", "time": "2004", "score": "9.3", "comment": "19548", "image": "https://img3.doubanio.com/view/subject/m/public/s4716282.jpg"}
-{"name": "？", "author": "陈奕迅", "style": "流行", "time": "2011-11-11", "score": "8.0", "comment": "21524", "image": "https://img1.doubanio.com/view/subject/m/public/s6988468.jpg"}
-{"name": "少年故事", "author": "彭坦", "style": "流行", "time": "2007-07-23", "score": "8.0", "comment": "20820", "image": "https://img3.doubanio.com/view/subject/m/public/s2616115.jpg"}
-{"name": "黑暗之光", "author": "雷光夏", "style": "民谣", "time": "2006-12-01", "score": "8.8", "comment": "19626", "image": "https://img3.doubanio.com/view/subject/m/public/s1960062.jpg"}
-{"name": "我要我们在一起", "author": "范晓萱", "style": "流行", "time": "1999-11-1", "score": "8.7", "comment": "19686", "image": "https://img3.doubanio.com/view/subject/m/public/s1432740.jpg"}
-{"name": "人生海海", "author": "五月天", "style": "摇滚", "time": "2001-07-06", "score": "9.2", "comment": "20078", "image": "https://img1.doubanio.com/view/subject/m/public/s1945209.jpg"}
-{"name": "Maybe I'm Dreaming", "author": "Owl City", "style": "流行", "time": "2008-03-18", "score": "8.4", "comment": "19816", "image": "https://img3.doubanio.com/view/subject/m/public/s3409351.jpg"}
-{"name": "工体东路没有人", "author": "李志", "style": "民谣", "time": "2009-01-22", "score": "9.0", "comment": "19960", "image": "https://img1.doubanio.com/view/subject/m/public/s3561838.jpg"}
-{"name": "Let It Be", "author": "The Beatles", "style": "摇滚", "time": "1990-10-25", "score": "9.3", "comment": "19686", "image": "https://img3.doubanio.com/view/subject/m/public/s1410146.jpg"}
-{"name": "Alright,Still", "author": "Lily Allen", "style": "流行", "time": "2006", "score": "8.3", "comment": "19545", "image": "https://img3.doubanio.com/view/subject/m/public/s2824792.jpg"}
-{"name": "大小說家", "author": "林宥嘉", "style": "流行", "time": "2012-06-22", "score": "7.9", "comment": "21182", "image": "https://img1.doubanio.com/view/subject/m/public/s10385947.jpg"}
-{"name": "越长大越孤单", "author": "牛奶@咖啡", "style": "流行", "time": "2008-03-18", "score": "7.6", "comment": "21968", "image": "https://img3.doubanio.com/view/subject/m/public/s2975545.jpg"}
-{"name": "燕尾蝶", "author": "梁静茹", "style": "流行", "time": "2004", "score": "8.0", "comment": "21152", "image": "https://img1.doubanio.com/view/subject/m/public/s3595798.jpg"}
-{"name": "原谅我就是这样的女生", "author": "戴佩妮", "style": "流行", "time": "2009-05-16", "score": "7.6", "comment": "20784", "image": "https://img3.doubanio.com/view/subject/m/public/s3780711.jpg"}
-{"name": "传奇", "author": "王菲", "style": "民谣", "time": "2010-11-05", "score": "9.2", "comment": "19680", "image": "https://img3.doubanio.com/view/subject/m/public/s4185764.jpg"}
-{"name": "Under the Radar", "author": "Daniel Powter", "style": "流行", "time": "2008-10-14", "score": "8.3", "comment": "19070", "image": "https://img1.doubanio.com/view/subject/m/public/s3273497.jpg"}
-{"name": "知足 MV / Karaoke DVD", "author": "五月天", "style": "流行", "time": "2006", "score": "9.2", "comment": "18304", "image": "https://img3.doubanio.com/view/subject/m/public/s4713371.jpg"}
-{"name": "我的歌声里", "author": "曲婉婷", "style": "流行", "time": "2012-07-01", "score": "7.7", "comment": "19300", "image": "https://img3.doubanio.com/view/subject/m/public/s11176273.jpg"}
-{"name": "王菲", "author": "王菲", "style": "流行", "time": "1997-09-30", "score": "9.2", "comment": "20559", "image": "https://img3.doubanio.com/view/subject/m/public/s3336530.jpg"}
-{"name": "信仰在空中飘扬", "author": "汪峰", "style": "摇滚", "time": "2009-07-25", "score": "8.7", "comment": "19024", "image": "https://img1.doubanio.com/view/subject/m/public/s3910069.jpg"}
-{"name": "[i]", "author": "莫文蔚", "style": "流行", "time": "2002-04-29", "score": "8.7", "comment": "19303", "image": "https://img1.doubanio.com/view/subject/m/public/s3944348.jpg"}
-{"name": "Songs About Jane", "author": "Maroon 5", "style": "流行", "time": "2002", "score": "8.5", "comment": "19415", "image": "https://img1.doubanio.com/view/subject/m/public/s2382869.jpg"}
-{"name": "Back To Black", "author": "Amy Winehouse", "style": "放克/灵歌/R&amp;B", "time": "2006-11-30", "score": "8.5", "comment": "19483", "image": "https://img3.doubanio.com/view/subject/m/public/s2146936.jpg"}
-{"name": "Demo 3", "author": "陈绮贞", "style": "流行", "time": "2001-11-09", "score": "9.1", "comment": "18012", "image": "https://img1.doubanio.com/view/subject/m/public/s4571919.jpg"}
-{"name": "克卜勒", "author": "孙燕姿", "style": "流行", "time": "2014-02-27", "score": "8.4", "comment": "20457", "image": "https://img1.doubanio.com/view/subject/m/public/s27220328.jpg"}
-{"name": "E=MC²", "author": "Mariah Carey", "style": "流行", "time": "2008-04-16", "score": "8.5", "comment": "18909", "image": "https://img1.doubanio.com/view/subject/m/public/s2982879.jpg"}
-{"name": "9 Crimes", "author": "Damien Rice", "style": "民谣", "time": "2006-11-27", "score": "9.4", "comment": "17474", "image": "https://img3.doubanio.com/view/subject/m/public/s3341606.jpg"}
-{"name": "如果有一件事是重要的", "author": "陈珊妮", "style": "流行", "time": "2008-11-22", "score": "8.2", "comment": "18794", "image": "https://img3.doubanio.com/view/subject/m/public/s3285190.jpg"}
-{"name": "赤裸裸", "author": "郑钧", "style": "摇滚", "time": "1994", "score": "8.8", "comment": "19139", "image": "https://img3.doubanio.com/view/subject/m/public/s9105445.jpg"}
-{"name": "阿岳正传", "author": "张震岳", "style": "流行", "time": "2004-06-24", "score": "9.0", "comment": "17782", "image": "https://img3.doubanio.com/view/subject/m/public/s3899296.jpg"}
-{"name": "3颗猫饼干", "author": "朱玫玲", "style": "", "time": "2004/04/26", "score": "9.1", "comment": "17024", "image": "https://img1.doubanio.com/view/subject/m/public/s1416778.jpg"}
-{"name": "21 Guns", "author": "Green Day", "style": "", "time": "2009-07-14", "score": "9.2", "comment": "17986", "image": "https://img1.doubanio.com/view/subject/m/public/s4468079.jpg"}
-{"name": "看我72变", "author": "蔡依林 Jolin Tsai", "style": "流行", "time": "2003-03-07", "score": "8.2", "comment": "22108", "image": "https://img1.doubanio.com/view/subject/m/public/s1506028.jpg"}
-{"name": "第二人生 明日版", "author": "五月天", "style": "流行", "time": "2011-12-20", "score": "9.0", "comment": "17797", "image": "https://img3.doubanio.com/view/subject/m/public/s7018733.jpg"}
-{"name": "Definitely Maybe", "author": "Oasis", "style": "摇滚", "time": "1994-08-30", "score": "9.0", "comment": "18651", "image": "https://img3.doubanio.com/view/subject/m/public/s4714001.jpg"}
-{"name": "First Love", "author": "宇多田ヒカル", "style": "流行", "time": "1999", "score": "9.1", "comment": "18610", "image": "https://img1.doubanio.com/view/subject/m/public/s1490767.jpg"}
-{"name": "阿密特", "author": "张惠妹", "style": "流行", "time": "2009-06-26", "score": "7.7", "comment": "19785", "image": "https://img3.doubanio.com/view/subject/m/public/s3856684.jpg"}
-{"name": "心·跳", "author": "王力宏 Leehom Wang", "style": "流行", "time": "2008-12-26", "score": "7.1", "comment": "20928", "image": "https://img3.doubanio.com/view/subject/m/public/s3485794.jpg"}
-{"name": "xx", "author": "The xx", "style": "摇滚", "time": "2009-08-17", "score": "8.7", "comment": "18823", "image": "https://img3.doubanio.com/view/subject/m/public/s3962066.jpg"}
-{"name": "回蔚", "author": "莫文蔚", "style": "流行", "time": "2009-06-23", "score": "8.0", "comment": "18724", "image": "https://img3.doubanio.com/view/subject/m/public/s3885892.jpg"}
-{"name": "如果看見地獄，我就不怕魔鬼", "author": "Tizzy Bac", "style": "流行", "time": "2009-02-13", "score": "8.1", "comment": "18202", "image": "https://img3.doubanio.com/view/subject/m/public/s3751353.jpg"}
-{"name": "我们是五月天", "author": "五月天", "style": "", "time": "2003年4月17日", "score": "9.3", "comment": "17665", "image": "https://img1.doubanio.com/view/subject/m/public/s27076627.jpg"}
-{"name": "王妃", "author": "萧敬腾", "style": "流行", "time": "2009-07-17", "score": "7.7", "comment": "19478", "image": "https://img1.doubanio.com/view/subject/m/public/s3885797.jpg"}
-{"name": "Poker Face", "author": "Lady Gaga", "style": "", "time": "September 23, 2008", "score": "8.7", "comment": "18715", "image": "https://img3.doubanio.com/view/subject/m/public/s3598342.jpg"}
-{"name": "唐朝", "author": "唐朝", "style": "摇滚", "time": "1992-12", "score": "9.0", "comment": "17850", "image": "https://img1.doubanio.com/view/subject/m/public/s8903729.jpg"}
-{"name": "寻找周杰伦", "author": "周杰伦", "style": "流行", "time": "2003-12-1", "score": "8.5", "comment": "19712", "image": "https://img1.doubanio.com/view/subject/m/public/s3726558.jpg"}
-{"name": "她说", "author": "林俊杰", "style": "流行", "time": "2010-12-08", "score": "7.7", "comment": "21005", "image": "https://img3.doubanio.com/view/subject/m/public/s4550552.jpg"}
+{"id": 1, "name": "We Sing. We Dance. We Steal Things.", "author": "Jason Mraz", "style": "民谣", "time": "2008-05-13", "score": "9.1", "comment": "105763", "image": "https://img3.doubanio.com/view/subject/m/public/s2967252.jpg"}
+{"id": 2, "name": "Viva La Vida", "author": "Coldplay", "style": "摇滚", "time": "2008-06-17", "score": "8.7", "comment": "89447", "image": "https://img3.doubanio.com/view/subject/m/public/s3054604.jpg"}
+{"id": 3, "name": "华丽的冒险", "author": "陈绮贞", "style": "流行", "time": "2005-09-23", "score": "8.9", "comment": "77730", "image": "https://img3.doubanio.com/view/subject/m/public/s1441645.jpg"}
+{"id": 4, "name": "范特西", "author": "周杰伦", "style": "流行", "time": "2001-09-14", "score": "9.2", "comment": "97763", "image": "https://img3.doubanio.com/view/subject/m/public/s3750422.jpg"}
+{"id": 5, "name": "後。青春期的詩", "author": "五月天", "style": "摇滚", "time": "2008-10-23", "score": "8.8", "comment": "79721", "image": "https://img1.doubanio.com/view/subject/m/public/s3316597.jpg"}
+{"id": 6, "name": "是时候", "author": "孙燕姿", "style": "流行", "time": "2011-03-08", "score": "8.6", "comment": "72450", "image": "https://img1.doubanio.com/view/subject/m/public/s4653287.jpg"}
+{"id": 7, "name": "Lenka", "author": "Lenka", "style": "流行", "time": "2008-09-23", "score": "8.5", "comment": "73487", "image": "https://img3.doubanio.com/view/subject/m/public/s3259484.jpg"}
+{"id": 8, "name": "Start from Here", "author": "王若琳", "style": "爵士", "time": "2008-01-11", "score": "8.7", "comment": "67528", "image": "https://img1.doubanio.com/view/subject/m/public/s2874587.jpg"}
+{"id": 9, "name": "旅行的意义", "author": "陈绮贞", "style": "流行", "time": "2004-02-02", "score": "9.2", "comment": "72588", "image": "https://img3.doubanio.com/view/subject/m/public/s2617173.jpg"}
+{"id": 10, "name": "太阳", "author": "陈绮贞", "style": "流行", "time": "2009-01-22", "score": "8.6", "comment": "66811", "image": "https://img1.doubanio.com/view/subject/m/public/s3570839.jpg"}
+{"id": 11, "name": "Once (Soundtrack)", "author": "Glen Hansard", "style": "原声", "time": "2007-05-22", "score": "9.1", "comment": "64966", "image": "https://img3.doubanio.com/view/subject/m/public/s2821080.jpg"}
+{"id": 12, "name": "Not Going Anywhere", "author": "Keren Ann", "style": "民谣", "time": "2004-08-24", "score": "8.9", "comment": "60631", "image": "https://img1.doubanio.com/view/subject/m/public/s1431228.jpg"}
+{"id": 13, "name": "American Idiot", "author": "Green Day", "style": "摇滚", "time": "2004-09-21", "score": "8.9", "comment": "63181", "image": "https://img3.doubanio.com/view/subject/m/public/s1485602.jpg"}
+{"id": 14, "name": "思念是一种病", "author": "张震岳 Csun Yuk", "style": "流行", "time": "2007-07-06", "score": "8.8", "comment": "57052", "image": "https://img1.doubanio.com/view/subject/m/public/s2591057.jpg"}
+{"id": 15, "name": "無與倫比的美麗", "author": "苏打绿", "style": "流行", "time": "2007-11-02", "score": "8.6", "comment": "61842", "image": "https://img3.doubanio.com/view/subject/m/public/s2757483.jpg"}
+{"id": 16, "name": "亲爱的...我还不知道", "author": "张悬", "style": "流行", "time": "2007-07-20", "score": "8.5", "comment": "55750", "image": "https://img3.doubanio.com/view/subject/m/public/s2604331.jpg"}
+{"id": 17, "name": "城市", "author": "张悬", "style": "流行", "time": "2009-05-22", "score": "8.3", "comment": "53942", "image": "https://img3.doubanio.com/view/subject/m/public/s3786340.jpg"}
+{"id": 18, "name": "O", "author": "Damien Rice", "style": "流行", "time": "2003", "score": "9.1", "comment": "49246", "image": "https://img1.doubanio.com/view/subject/m/public/s2838077.jpg"}
+{"id": 19, "name": "Wake Me Up When September Ends", "author": "Green Day", "style": "摇滚", "time": "2005-06-13", "score": "9.3", "comment": "48900", "image": "https://img1.doubanio.com/view/subject/m/public/s3572868.jpg"}
+{"id": 20, "name": "叶惠美", "author": "周杰伦", "style": "流行", "time": "2003-07-31", "score": "8.5", "comment": "63036", "image": "https://img3.doubanio.com/view/subject/m/public/s1425762.jpg"}
+{"id": 21, "name": "七里香", "author": "周杰伦", "style": "流行", "time": "2004", "score": "8.1", "comment": "72256", "image": "https://img3.doubanio.com/view/subject/m/public/s3737076.jpg"}
+{"id": 22, "name": "21", "author": "Adele", "style": "流行", "time": "2011-02-01", "score": "9.0", "comment": "53569", "image": "https://img3.doubanio.com/view/subject/m/public/s4527315.jpg"}
+{"id": 23, "name": "My Life Will...", "author": "张悬", "style": "流行", "time": "2006-06-09", "score": "8.6", "comment": "49521", "image": "https://img1.doubanio.com/view/subject/m/public/s1884457.jpg"}
+{"id": 24, "name": "寓言", "author": "王菲", "style": "流行", "time": "2000", "score": "9.3", "comment": "50951", "image": "https://img3.doubanio.com/view/subject/m/public/s3336480.jpg"}
+{"id": 25, "name": "你在煩惱什麼", "author": "苏打绿 Sodagreen", "style": "流行", "time": "2011-11-11", "score": "8.9", "comment": "48405", "image": "https://img3.doubanio.com/view/subject/m/public/s6987806.jpg"}
+{"id": 26, "name": "感官/世界", "author": "林宥嘉", "style": "流行", "time": "2009-10-30", "score": "8.7", "comment": "50627", "image": "https://img3.doubanio.com/view/subject/m/public/s4039591.jpg"}
+{"id": 27, "name": "Nevermind", "author": "Nirvana", "style": "摇滚", "time": "1991", "score": "9.2", "comment": "47849", "image": "https://img3.doubanio.com/view/subject/m/public/s1632580.jpg"}
+{"id": 28, "name": "八度空间", "author": "周杰伦", "style": "流行", "time": "2002-07-19", "score": "8.5", "comment": "55308", "image": "https://img3.doubanio.com/view/subject/m/public/s4598636.jpg"}
+{"id": 29, "name": "Jay", "author": "周杰伦", "style": "流行", "time": "2000-11-13", "score": "8.9", "comment": "52774", "image": "https://img3.doubanio.com/view/subject/m/public/s8932514.jpg"}
+{"id": 30, "name": "Parachutes", "author": "Coldplay", "style": "流行", "time": "2000-07-10", "score": "9.0", "comment": "45882", "image": "https://img3.doubanio.com/view/subject/m/public/s1400723.jpg"}
+{"id": 31, "name": "我要的幸福", "author": "孙燕姿", "style": "流行", "time": "2000-12-7", "score": "8.9", "comment": "46314", "image": "https://img3.doubanio.com/view/subject/m/public/s3524071.jpg"}
+{"id": 32, "name": "还是会寂寞", "author": "陈绮贞", "style": "流行", "time": "2000", "score": "9.0", "comment": "43546", "image": "https://img1.doubanio.com/view/subject/m/public/s27076587.jpg"}
+{"id": 33, "name": "Let Go", "author": "Avril Lavigne", "style": "摇滚", "time": "2002", "score": "8.8", "comment": "45937", "image": "https://img3.doubanio.com/view/subject/m/public/s2652911.jpg"}
+{"id": 34, "name": "十一月的萧邦", "author": "周杰伦", "style": "流行", "time": "2005-11-01", "score": "7.9", "comment": "57444", "image": "https://img3.doubanio.com/view/subject/m/public/s1456874.jpg"}
+{"id": 35, "name": "橙月", "author": "方大同", "style": "放克/灵歌/R&amp;B", "time": "2008-12-19", "score": "8.5", "comment": "44167", "image": "https://img1.doubanio.com/view/subject/m/public/s3405037.jpg"}
+{"id": 36, "name": "小宇宙", "author": "苏打绿 Sodagreen", "style": "流行", "time": "2006-10-20", "score": "8.7", "comment": "43872", "image": "https://img3.doubanio.com/view/subject/m/public/s1883654.jpg"}
+{"id": 37, "name": "若你碰到他", "author": "蔡健雅", "style": "流行", "time": "2009-08-19", "score": "8.0", "comment": "46303", "image": "https://img3.doubanio.com/view/subject/m/public/s3942165.jpg"}
+{"id": 38, "name": "Lady & Bird", "author": "Lady & Bird", "style": "民谣", "time": "2003", "score": "8.8", "comment": "41794", "image": "https://img3.doubanio.com/view/subject/m/public/s2376100.jpg"}
+{"id": 39, "name": "万能青年旅店", "author": "万能青年旅店", "style": "摇滚", "time": "2010-11-12", "score": "9.1", "comment": "49548", "image": "https://img1.doubanio.com/view/subject/m/public/s4614409.jpg"}
+{"id": 40, "name": "Meteora", "author": "Linkin Park", "style": "摇滚", "time": "2003-03-25", "score": "9.0", "comment": "41499", "image": "https://img1.doubanio.com/view/subject/m/public/s1401378.jpg"}
+{"id": 41, "name": "Back To Bedlam", "author": "James Blunt", "style": "流行", "time": "2004", "score": "8.9", "comment": "40974", "image": "https://img3.doubanio.com/view/subject/m/public/s1461123.jpg"}
+{"id": 42, "name": "苏打绿", "author": "苏打绿", "style": "流行", "time": "2005年9月", "score": "8.6", "comment": "44624", "image": "https://img3.doubanio.com/view/subject/m/public/s2360790.jpg"}
+{"id": 43, "name": "静茹&情歌 别再为他流泪", "author": "梁静茹", "style": "流行", "time": "2009-01-16", "score": "8.4", "comment": "42872", "image": "https://img3.doubanio.com/view/subject/m/public/s3551584.jpg"}
+{"id": 44, "name": "美妙生活", "author": "林宥嘉", "style": "流行", "time": "2011-05-06", "score": "8.6", "comment": "42400", "image": "https://img3.doubanio.com/view/subject/m/public/s6201192.jpg"}
+{"id": 45, "name": "Le Fabuleux destin d'Amélie Poulain", "author": "Yann Tiersen", "style": "原声", "time": "2001-04-23", "score": "9.3", "comment": "39685", "image": "https://img1.doubanio.com/view/subject/m/public/s2881998.jpg"}
+{"id": 46, "name": "Joanna & 王若琳", "author": "王若琳", "style": "", "time": "2009-01-16", "score": "8.1", "comment": "41002", "image": "https://img3.doubanio.com/view/subject/m/public/s3550503.jpg"}
+{"id": 47, "name": "A Plea En Vendredi", "author": "Tamas Wells", "style": "民谣", "time": "2006", "score": "9.0", "comment": "37892", "image": "https://img3.doubanio.com/view/subject/m/public/s2783063.jpg"}
+{"id": 48, "name": "To Hebe", "author": "田馥甄 Hebe", "style": "流行", "time": "2010-09-03", "score": "8.0", "comment": "41017", "image": "https://img3.doubanio.com/view/subject/m/public/s4466905.jpg"}
+{"id": 49, "name": "逆光", "author": "孙燕姿", "style": "流行", "time": "2007-03-22", "score": "8.3", "comment": "44815", "image": "https://img3.doubanio.com/view/subject/m/public/s2333326.jpg"}
+{"id": 50, "name": "只爱陌生人", "author": "王菲", "style": "流行", "time": "1999-09-10", "score": "9.3", "comment": "40324", "image": "https://img1.doubanio.com/view/subject/m/public/s3390958.jpg"}
+{"id": 51, "name": "Music For Tourists", "author": "Chris Garneau", "style": "民谣", "time": "2007-01-23", "score": "8.7", "comment": "37786", "image": "https://img3.doubanio.com/view/subject/m/public/s1989094.jpg"}
+{"id": 52, "name": "The Moment", "author": "孙燕姿", "style": "流行", "time": "2003-08-22", "score": "9.0", "comment": "38411", "image": "https://img3.doubanio.com/view/subject/m/public/s2794840.jpg"}
+{"id": 53, "name": "七", "author": "陈奕迅", "style": "流行", "time": "2003-11-20", "score": "9.4", "comment": "37598", "image": "https://img3.doubanio.com/view/subject/m/public/s3169796.jpg"}
+{"id": 54, "name": "春·日光", "author": "苏打绿", "style": "摇滚", "time": "2009-05-08", "score": "8.0", "comment": "40676", "image": "https://img1.doubanio.com/view/subject/m/public/s3763169.jpg"}
+{"id": 55, "name": "100种生活", "author": "盧廣仲", "style": "民谣", "time": "2008-5-27", "score": "8.3", "comment": "38958", "image": "https://img1.doubanio.com/view/subject/m/public/s3128207.jpg"}
+{"id": 56, "name": "崇拜", "author": "梁静茹", "style": "流行", "time": "2007-11-09", "score": "8.4", "comment": "40397", "image": "https://img1.doubanio.com/view/subject/m/public/s2758489.jpg"}
+{"id": 57, "name": "陈绮贞精选", "author": "陈绮贞", "style": "民谣", "time": "2005", "score": "9.2", "comment": "35159", "image": "https://img3.doubanio.com/view/subject/m/public/s3232974.jpg"}
+{"id": 58, "name": "菊次郎の夏", "author": "Joe Hisaishi", "style": "原声", "time": "1999-05-19", "score": "9.4", "comment": "37844", "image": "https://img3.doubanio.com/view/subject/m/public/s3272681.jpg"}
+{"id": 59, "name": "Fearless", "author": "Taylor Swift", "style": "流行", "time": "2008-11-11", "score": "8.4", "comment": "41210", "image": "https://img3.doubanio.com/view/subject/m/public/s3315133.jpg"}
+{"id": 60, "name": "Life In Cartoon Motion", "author": "Mika", "style": "流行", "time": "2007-02-05", "score": "8.8", "comment": "35793", "image": "https://img3.doubanio.com/view/subject/m/public/s2657592.jpg"}
+{"id": 61, "name": "H³M", "author": "陈奕迅", "style": "流行", "time": "2009-03-23", "score": "8.5", "comment": "38465", "image": "https://img3.doubanio.com/view/subject/m/public/s3666735.jpg"}
+{"id": 62, "name": "神秘嘉宾", "author": "林宥嘉", "style": "流行", "time": "2008-06-03", "score": "8.4", "comment": "39169", "image": "https://img3.doubanio.com/view/subject/m/public/s3113075.jpg"}
+{"id": 63, "name": "Les Choristes", "author": "Bruno Coulais", "style": "", "time": "2004-05-03", "score": "9.4", "comment": "34885", "image": "https://img3.doubanio.com/view/subject/m/public/s1400055.jpg"}
+{"id": 64, "name": "赤子", "author": "范晓萱&100%", "style": "流行", "time": "2009-08-10", "score": "8.1", "comment": "37796", "image": "https://img3.doubanio.com/view/subject/m/public/s3902012.jpg"}
+{"id": 65, "name": "9", "author": "Damien Rice", "style": "民谣", "time": "2006-11-06", "score": "8.9", "comment": "35237", "image": "https://img3.doubanio.com/view/subject/m/public/s1831581.jpg"}
+{"id": 66, "name": "将爱", "author": "王菲", "style": "流行", "time": "2003", "score": "8.7", "comment": "38039", "image": "https://img3.doubanio.com/view/subject/m/public/s2726841.jpg"}
+{"id": 67, "name": "遇见我", "author": "曹方", "style": "流行", "time": "2005年12月", "score": "8.4", "comment": "37060", "image": "https://img3.doubanio.com/view/subject/m/public/s1462740.jpg"}
+{"id": 68, "name": "梵高先生", "author": "李志", "style": "民谣", "time": "2007-01-11", "score": "8.9", "comment": "40753", "image": "https://img1.doubanio.com/view/subject/m/public/s3743777.jpg"}
+{"id": 69, "name": "Timeless 可啦思刻", "author": "方大同", "style": "放克/灵歌/R&amp;B", "time": "2009-08-11", "score": "8.3", "comment": "36220", "image": "https://img3.doubanio.com/view/subject/m/public/s27078161.jpg"}
+{"id": 70, "name": "依然范特西", "author": "周杰伦", "style": "流行", "time": "2006-09-05", "score": "7.7", "comment": "46072", "image": "https://img3.doubanio.com/view/subject/m/public/s1943885.jpg"}
+{"id": 71, "name": "风筝", "author": "孙燕姿", "style": "流行", "time": "2001-07-09", "score": "8.8", "comment": "36451", "image": "https://img3.doubanio.com/view/subject/m/public/s6569456.jpg"}
+{"id": 72, "name": "完美的一天", "author": "孙燕姿", "style": "流行", "time": "2005-10-07", "score": "8.1", "comment": "38204", "image": "https://img3.doubanio.com/view/subject/m/public/s3524062.jpg"}
+{"id": 73, "name": "Say I Am You", "author": "The Weepies", "style": "民谣", "time": "2006", "score": "8.5", "comment": "35885", "image": "https://img1.doubanio.com/view/subject/m/public/s4043738.jpg"}
+{"id": 74, "name": "黑色柳丁", "author": "陶喆", "style": "流行", "time": "2002", "score": "8.8", "comment": "36467", "image": "https://img1.doubanio.com/view/subject/m/public/s27077858.jpg"}
+{"id": 75, "name": "Under My Skin", "author": "Avril Lavigne", "style": "摇滚", "time": "2004-05-12", "score": "8.5", "comment": "35820", "image": "https://img1.doubanio.com/view/subject/m/public/s4716897.jpg"}
+{"id": 76, "name": "Stefanie", "author": "孙燕姿", "style": "流行", "time": "2004-10-1", "score": "8.6", "comment": "34939", "image": "https://img3.doubanio.com/view/subject/m/public/s1418840.jpg"}
+{"id": 77, "name": "The Fame", "author": "Lady Gaga", "style": "电子", "time": "2008-08-19", "score": "8.3", "comment": "36718", "image": "https://img3.doubanio.com/view/subject/m/public/s3224590.jpg"}
+{"id": 78, "name": "Mr. A-Z", "author": "Jason Mraz", "style": "流行", "time": "2005-07-04", "score": "9.0", "comment": "32850", "image": "https://img3.doubanio.com/view/subject/m/public/s2761461.jpg"}
+{"id": 79, "name": "为爱而生", "author": "五月天", "style": "流行", "time": "2006-12-28", "score": "8.4", "comment": "35307", "image": "https://img3.doubanio.com/view/subject/m/public/s1959251.jpg"}
+{"id": 80, "name": "Daniel Powter", "author": "Daniel Powter", "style": "流行", "time": "2006", "score": "8.6", "comment": "33195", "image": "https://img1.doubanio.com/view/subject/m/public/s1661548.jpg"}
+{"id": 81, "name": "I'm Yours", "author": "Jason Mraz", "style": "民谣", "time": "2008-12-16", "score": "9.4", "comment": "33374", "image": "https://img3.doubanio.com/view/subject/m/public/s9074663.jpg"}
+{"id": 82, "name": "在动物园散步才是正经事", "author": "My Little Airport", "style": "流行", "time": "2004-08-07", "score": "8.2", "comment": "35834", "image": "https://img3.doubanio.com/view/subject/m/public/s2552894.jpg"}
+{"id": 83, "name": "时光·漫步", "author": "许巍 Wei Xu", "style": "民谣", "time": "2002-12-01", "score": "8.9", "comment": "33546", "image": "https://img3.doubanio.com/view/subject/m/public/s3839391.jpg"}
+{"id": 84, "name": "生如夏花", "author": "朴树", "style": "流行", "time": "2003-11-28", "score": "8.6", "comment": "38731", "image": "https://img1.doubanio.com/view/subject/m/public/s1966937.jpg"}
+{"id": 85, "name": "我很忙", "author": "周杰伦", "style": "流行", "time": "2007-11-01", "score": "7.3", "comment": "44164", "image": "https://img3.doubanio.com/view/subject/m/public/s2753832.jpg"}
+{"id": 86, "name": "夏 / 狂热", "author": "苏打绿", "style": "摇滚", "time": "2009-09-11", "score": "8.3", "comment": "34455", "image": "https://img3.doubanio.com/view/subject/m/public/s3967123.jpg"}
+{"id": 87, "name": "绝世名伶", "author": "范晓萱", "style": "爵士", "time": "2001-08-25", "score": "8.8", "comment": "31859", "image": "https://img3.doubanio.com/view/subject/m/public/s11363103.jpg"}
+{"id": 88, "name": "哼一首歌 等日落", "author": "曹方", "style": "流行", "time": "2009-11-11", "score": "8.1", "comment": "32509", "image": "https://img3.doubanio.com/view/subject/m/public/s4052811.jpg"}
+{"id": 89, "name": "未完成", "author": "孙燕姿", "style": "流行", "time": "2003-01-10", "score": "8.6", "comment": "32179", "image": "https://img3.doubanio.com/view/subject/m/public/s3524013.jpg"}
+{"id": 90, "name": "OK Computer", "author": "Radiohead", "style": "摇滚", "time": "1997", "score": "9.2", "comment": "32415", "image": "https://img1.doubanio.com/view/subject/m/public/s2789048.jpg"}
+{"id": 91, "name": "Born to Die", "author": "Lana Del Rey", "style": "流行", "time": "2012-01-31", "score": "8.5", "comment": "35115", "image": "https://img1.doubanio.com/view/subject/m/public/s7047247.jpg"}
+{"id": 92, "name": "The Wall", "author": "Pink Floyd", "style": "摇滚", "time": "1979", "score": "9.1", "comment": "32438", "image": "https://img3.doubanio.com/view/subject/m/public/s2413665.jpg"}
+{"id": 93, "name": "不要停止我的音乐", "author": "痛仰", "style": "摇滚", "time": "2008-10", "score": "8.6", "comment": "32789", "image": "https://img3.doubanio.com/view/subject/m/public/s3523286.jpg"}
+{"id": 94, "name": "Hybrid Theory", "author": "Linkin Park", "style": "摇滚", "time": "2000", "score": "8.9", "comment": "30108", "image": "https://img3.doubanio.com/view/subject/m/public/s2838195.jpg"}
+{"id": 95, "name": "MTV Unplugged in New York", "author": "Nirvana", "style": "摇滚", "time": "1994-11-01", "score": "9.5", "comment": "29216", "image": "https://img3.doubanio.com/view/subject/m/public/s3158430.jpg"}
+{"id": 96, "name": "After 17", "author": "陈绮贞", "style": "流行", "time": "2004年12月", "score": "9.2", "comment": "28895", "image": "https://img3.doubanio.com/view/subject/m/public/s4711982.jpg"}
+{"id": 97, "name": "In Between Dreams", "author": "Jack Johnson", "style": "民谣", "time": "2005-03-22", "score": "9.0", "comment": "28692", "image": "https://img1.doubanio.com/view/subject/m/public/s4346679.jpg"}
+{"id": 98, "name": "神的孩子都在跳舞", "author": "五月天 Mayday", "style": "流行", "time": "2004-11-05", "score": "8.9", "comment": "30667", "image": "https://img3.doubanio.com/view/subject/m/public/s3586961.jpg"}
+{"id": 99, "name": "离开地球表面Jump!", "author": "五月天", "style": "流行", "time": "2007-07-20", "score": "8.7", "comment": "31628", "image": "https://img3.doubanio.com/view/subject/m/public/s27078194.jpg"}
+{"id": 100, "name": "不想放手", "author": "陈奕迅", "style": "流行", "time": "2008-06-30", "score": "8.3", "comment": "31664", "image": "https://img3.doubanio.com/view/subject/m/public/s3146476.jpg"}
+{"id": 101, "name": "我的歌声里", "author": "曲婉婷", "style": "流行", "time": "2010-02-24", "score": "9.2", "comment": "30584", "image": "https://img3.doubanio.com/view/subject/m/public/s9127241.jpg"}
+{"id": 102, "name": "The Legend of 1900", "author": "Ennio Morricone", "style": "", "time": "1999-10-12", "score": "9.4", "comment": "29353", "image": "https://img3.doubanio.com/view/subject/m/public/s1426141.jpg"}
+{"id": 103, "name": "孤独的人是可耻的", "author": "张楚", "style": "摇滚", "time": "1994", "score": "9.1", "comment": "30709", "image": "https://img3.doubanio.com/view/subject/m/public/s3266121.jpg"}
+{"id": 104, "name": "徐佳瑩La La首张创作专辑", "author": "徐佳莹", "style": "流行", "time": "2009-05-29", "score": "8.2", "comment": "31617", "image": "https://img3.doubanio.com/view/subject/m/public/s3819180.jpg"}
+{"id": 105, "name": "The Best Damn Thing", "author": "Avril Lavigne", "style": "流行", "time": "2007-04-17", "score": "7.7", "comment": "33014", "image": "https://img3.doubanio.com/view/subject/m/public/s2362973.jpg"}
+{"id": 106, "name": "知足 just my pride 最真杰作选", "author": "五月天", "style": "摇滚", "time": "2005-11-18", "score": "9.1", "comment": "29135", "image": "https://img3.doubanio.com/view/subject/m/public/s1443616.jpg"}
+{"id": 107, "name": "1", "author": "The Beatles", "style": "摇滚", "time": "2000", "score": "9.4", "comment": "27913", "image": "https://img3.doubanio.com/view/subject/m/public/s1400070.jpg"}
+{"id": 108, "name": "魔杰座", "author": "周杰伦", "style": "流行", "time": "2008-10-09", "score": "6.9", "comment": "39257", "image": "https://img3.doubanio.com/view/subject/m/public/s3292023.jpg"}
+{"id": 109, "name": "X&Y", "author": "Coldplay", "style": "摇滚", "time": "2005-06-07", "score": "8.4", "comment": "30553", "image": "https://img3.doubanio.com/view/subject/m/public/s1400630.jpg"}
+{"id": 110, "name": "19", "author": "Adele", "style": "放克/灵歌/R&amp;B", "time": "2008-01-28", "score": "8.3", "comment": "30472", "image": "https://img3.doubanio.com/view/subject/m/public/s2841982.jpg"}
+{"id": 111, "name": "我们在炎热与抑郁的夏天，无法停止抽烟", "author": "My Little Airport", "style": "流行", "time": "2007-10-10", "score": "8.1", "comment": "30519", "image": "https://img3.doubanio.com/view/subject/m/public/s2722802.jpg"}
+{"id": 112, "name": "时光机", "author": "五月天", "style": "摇滚", "time": "2003-11-11", "score": "9.0", "comment": "29042", "image": "https://img3.doubanio.com/view/subject/m/public/s4718016.jpg"}
+{"id": 113, "name": "Yan Zi", "author": "孙燕姿", "style": "流行", "time": "2000-06-08", "score": "9.0", "comment": "28466", "image": "https://img3.doubanio.com/view/subject/m/public/s4067651.jpg"}
+{"id": 114, "name": "Time Flies", "author": "陈奕迅", "style": "流行", "time": "2010-03-12", "score": "8.7", "comment": "28736", "image": "https://img3.doubanio.com/view/subject/m/public/s4217513.jpg"}
+{"id": 115, "name": "失败者的飞翔", "author": "陈绮贞", "style": "流行", "time": "2008-07-13", "score": "8.6", "comment": "28111", "image": "https://img1.doubanio.com/view/subject/m/public/s3164468.jpg"}
+{"id": 116, "name": "My Love", "author": "田馥甄", "style": "流行", "time": "2011-09-02", "score": "8.0", "comment": "30602", "image": "https://img3.doubanio.com/view/subject/m/public/s6884320.jpg"}
+{"id": 117, "name": "亲亲", "author": "梁静茹", "style": "流行", "time": "2006-10-06", "score": "8.1", "comment": "29644", "image": "https://img1.doubanio.com/view/subject/m/public/s1876827.jpg"}
+{"id": 118, "name": "你王菲所以我王菲", "author": "王菲", "style": "流行", "time": "2002", "score": "9.4", "comment": "28207", "image": "https://img1.doubanio.com/view/subject/m/public/s2951748.jpg"}
+{"id": 119, "name": "Stranger Under My Skin", "author": "陈奕迅", "style": "流行", "time": "2011-02-22", "score": "8.6", "comment": "28145", "image": "https://img3.doubanio.com/view/subject/m/public/s4644120.jpg"}
+{"id": 120, "name": "Come Away with Me", "author": "Norah Jones", "style": "爵士", "time": "2002", "score": "8.8", "comment": "27519", "image": "https://img1.doubanio.com/view/subject/m/public/s4714568.jpg"}
+{"id": 121, "name": "平凡之路", "author": "朴树", "style": "", "time": "2014-07-16", "score": "8.9", "comment": "36344", "image": "https://img1.doubanio.com/view/subject/m/public/s27326029.jpg"}
+{"id": 122, "name": "认了吧", "author": "陈奕迅", "style": "流行", "time": "2007-04-24", "score": "8.7", "comment": "29123", "image": "https://img1.doubanio.com/view/subject/m/public/s3947069.jpg"}
+{"id": 123, "name": "21st Century Breakdown", "author": "Green Day", "style": "摇滚", "time": "2009-05-15", "score": "8.5", "comment": "27582", "image": "https://img3.doubanio.com/view/subject/m/public/s3727625.jpg"}
+{"id": 124, "name": "神的游戏", "author": "張懸", "style": "流行", "time": "2012-08-10", "score": "8.7", "comment": "29171", "image": "https://img1.doubanio.com/view/subject/m/public/s11174008.jpg"}
+{"id": 125, "name": "唱游", "author": "王菲", "style": "流行", "time": "1998", "score": "9.2", "comment": "28640", "image": "https://img3.doubanio.com/view/subject/m/public/s2749634.jpg"}
+{"id": 126, "name": "花的姿态：演唱会经典实录", "author": "陈绮贞", "style": "", "time": "2007-05-18", "score": "9.2", "comment": "25261", "image": "https://img1.doubanio.com/view/subject/m/public/s2377978.jpg"}
+{"id": 127, "name": "我去2000年", "author": "朴树", "style": "流行", "time": "1999-1", "score": "9.1", "comment": "28696", "image": "https://img1.doubanio.com/view/subject/m/public/s27208919.jpg"}
+{"id": 128, "name": "Young For You", "author": "GALA", "style": "摇滚", "time": "2004", "score": "8.7", "comment": "27133", "image": "https://img1.doubanio.com/view/subject/m/public/s1629838.jpg"}
+{"id": 129, "name": "自选集", "author": "孙燕姿", "style": "流行", "time": "2002年1月", "score": "8.9", "comment": "26155", "image": "https://img1.doubanio.com/view/subject/m/public/s3151869.jpg"}
+{"id": 130, "name": "理性与感性 作品音乐会", "author": "李宗盛 Jonathan", "style": "流行", "time": "2007-09-28", "score": "9.5", "comment": "25606", "image": "https://img3.doubanio.com/view/subject/m/public/s2891182.jpg"}
+{"id": 131, "name": "比天空还远", "author": "曹方", "style": "流行", "time": "2007-11-20", "score": "8.5", "comment": "26463", "image": "https://img3.doubanio.com/view/subject/m/public/s2755385.jpg"}
+{"id": 132, "name": "黑梦", "author": "窦唯", "style": "摇滚", "time": "1994-10", "score": "9.2", "comment": "28368", "image": "https://img3.doubanio.com/view/subject/m/public/s3081692.jpg"}
+{"id": 133, "name": "介乎法國與旺角的詩意", "author": "My Little Airport", "style": "流行", "time": "2009-11-20", "score": "8.1", "comment": "28877", "image": "https://img3.doubanio.com/view/subject/m/public/s4057285.jpg"}
+{"id": 134, "name": "不能说的秘密", "author": "周杰倫", "style": "", "time": "2007-08-13", "score": "8.7", "comment": "30449", "image": "https://img1.doubanio.com/view/subject/m/public/s2652097.jpg"}
+{"id": 135, "name": "丝路", "author": "梁静茹 Fish", "style": "流行", "time": "2005-9-16", "score": "8.2", "comment": "27418", "image": "https://img3.doubanio.com/view/subject/m/public/s1966952.jpg"}
+{"id": 136, "name": "All The Lost Souls", "author": "James Blunt", "style": "流行", "time": "2007-09-18", "score": "8.5", "comment": "25553", "image": "https://img3.doubanio.com/view/subject/m/public/s2609413.jpg"}
+{"id": 137, "name": "F.I.R.", "author": "F.I.R.", "style": "流行", "time": "2004-04-29", "score": "8.6", "comment": "28802", "image": "https://img3.doubanio.com/view/subject/m/public/s4124010.jpg"}
+{"id": 138, "name": "上五楼的快活", "author": "陈奕迅", "style": "流行", "time": "2009-09-23", "score": "7.7", "comment": "27643", "image": "https://img3.doubanio.com/view/subject/m/public/s3969572.jpg"}
+{"id": 139, "name": "Minutes to Midnight", "author": "Linkin Park", "style": "摇滚", "time": "2007-05-15", "score": "8.2", "comment": "25898", "image": "https://img3.doubanio.com/view/subject/m/public/s2665031.jpg"}
+{"id": 140, "name": "GOODBYE & HELLO", "author": "蔡健雅", "style": "流行", "time": "2007-10-19", "score": "8.6", "comment": "25375", "image": "https://img1.doubanio.com/view/subject/m/public/s27067658.jpg"}
+{"id": 141, "name": "Someone Like You", "author": "Adele", "style": "放克/灵歌/R&amp;B", "time": "2011-01-24", "score": "9.5", "comment": "26843", "image": "https://img3.doubanio.com/view/subject/m/public/s4689205.jpg"}
+{"id": 142, "name": "迟到千年", "author": "苏打绿", "style": "流行", "time": "2006-09-18", "score": "8.8", "comment": "24541", "image": "https://img3.doubanio.com/view/subject/m/public/s4567536.jpg"}
+{"id": 143, "name": "The Dark Side of the Moon", "author": "Pink Floyd", "style": "摇滚", "time": "1973", "score": "9.1", "comment": "27761", "image": "https://img3.doubanio.com/view/subject/m/public/s4415985.jpg"}
+{"id": 144, "name": "王菲 2001", "author": "王菲", "style": "流行", "time": "2001", "score": "9.1", "comment": "25135", "image": "https://img3.doubanio.com/view/subject/m/public/s27066361.jpg"}
+{"id": 145, "name": "夜空中最亮的星", "author": "逃跑计划", "style": "流行", "time": "2011-04-12", "score": "9.5", "comment": "29038", "image": "https://img3.doubanio.com/view/subject/m/public/s7050455.jpg"}
+{"id": 146, "name": "追梦痴子心", "author": "GALA", "style": "流行", "time": "2011-03-24", "score": "8.8", "comment": "26875", "image": "https://img1.doubanio.com/view/subject/m/public/s26743139.jpg"}
+{"id": 147, "name": "宝贝", "author": "莫文蔚", "style": "流行", "time": "2010-07-26", "score": "7.9", "comment": "25637", "image": "https://img3.doubanio.com/view/subject/m/public/s4425103.jpg"}
+{"id": 148, "name": "黑白灰", "author": "陈奕迅", "style": "流行", "time": "2003", "score": "9.1", "comment": "23924", "image": "https://img3.doubanio.com/view/subject/m/public/s4088274.jpg"}
+{"id": 149, "name": "安和桥北", "author": "宋冬野", "style": "民谣", "time": "2013-08-26", "score": "8.7", "comment": "30125", "image": "https://img1.doubanio.com/view/subject/m/public/s27029428.jpg"}
+{"id": 150, "name": "Prisoner of Love", "author": "宇多田ヒカル", "style": "流行", "time": "2008-05-21", "score": "9.2", "comment": "23356", "image": "https://img3.doubanio.com/view/subject/m/public/s3104656.jpg"}
+{"id": 151, "name": "Groupies 吉他手", "author": "陈绮贞", "style": "流行", "time": "2002-08-02", "score": "9.1", "comment": "23581", "image": "https://img3.doubanio.com/view/subject/m/public/s3268875.jpg"}
+{"id": 152, "name": "Now The Day Is Over", "author": "The Innocence Mission", "style": "民谣", "time": "2004", "score": "8.4", "comment": "24025", "image": "https://img3.doubanio.com/view/subject/m/public/s1506405.jpg"}
+{"id": 153, "name": "Apologize", "author": "Timbaland", "style": "", "time": "2007-11-06", "score": "9.2", "comment": "25087", "image": "https://img3.doubanio.com/view/subject/m/public/s6780751.jpg"}
+{"id": 154, "name": "阿菲正传", "author": "王菲", "style": "流行", "time": "2009-06-25", "score": "9.4", "comment": "23080", "image": "https://img3.doubanio.com/view/subject/m/public/s3850703.jpg"}
+{"id": 155, "name": "跨时代", "author": "周杰伦", "style": "流行", "time": "2010-05-14", "score": "7.0", "comment": "28283", "image": "https://img1.doubanio.com/view/subject/m/public/s4364499.jpg"}
+{"id": 156, "name": "Leave", "author": "孙燕姿", "style": "流行", "time": "2002-5-21", "score": "8.7", "comment": "23716", "image": "https://img3.doubanio.com/view/subject/m/public/s2693584.jpg"}
+{"id": 157, "name": "被禁忌的游戏", "author": "李志", "style": "民谣", "time": "2004-12", "score": "8.8", "comment": "25165", "image": "https://img1.doubanio.com/view/subject/m/public/s2650727.jpg"}
+{"id": 158, "name": "What's Going On....?", "author": "陈奕迅", "style": "流行", "time": "2006", "score": "9.1", "comment": "23467", "image": "https://img3.doubanio.com/view/subject/m/public/s1933423.jpg"}
+{"id": 159, "name": "第二人生 末日版", "author": "五月天", "style": "流行", "time": "2011-12-20", "score": "8.9", "comment": "23493", "image": "https://img3.doubanio.com/view/subject/m/public/s7021494.jpg"}
+{"id": 160, "name": "樂之路", "author": "陶喆", "style": "流行", "time": "2003-08-08", "score": "9.0", "comment": "22702", "image": "https://img3.doubanio.com/view/subject/m/public/s3522345.jpg"}
+{"id": 161, "name": "It Won't Be Soon Before Long", "author": "Maroon 5", "style": "流行", "time": "2007-05-22", "score": "8.2", "comment": "23873", "image": "https://img3.doubanio.com/view/subject/m/public/s2374986.jpg"}
+{"id": 162, "name": "如果你冷", "author": "张悬", "style": "民谣", "time": "2008-10-20", "score": "8.3", "comment": "24048", "image": "https://img1.doubanio.com/view/subject/m/public/s3321977.jpg"}
+{"id": 163, "name": "陌生人", "author": "蔡健雅 Tanya Chua", "style": "流行", "time": "2003-06-00", "score": "8.7", "comment": "23301", "image": "https://img1.doubanio.com/view/subject/m/public/s1647637.jpg"}
+{"id": 164, "name": "浮躁", "author": "王菲", "style": "摇滚", "time": "1996", "score": "9.2", "comment": "25128", "image": "https://img3.doubanio.com/view/subject/m/public/s3631071.jpg"}
+{"id": 165, "name": "C'est La Vie", "author": "自然卷", "style": "民谣", "time": "2004", "score": "8.2", "comment": "23662", "image": "https://img3.doubanio.com/view/subject/m/public/s1446010.jpg"}
+{"id": 166, "name": "在一起", "author": "刘若英", "style": "流行", "time": "2010-04-16", "score": "7.8", "comment": "24025", "image": "https://img3.doubanio.com/view/subject/m/public/s4305186.jpg"}
+{"id": 167, "name": "These Friends Of Mine", "author": "Rosie Thomas", "style": "民谣", "time": "2007-03-13", "score": "8.7", "comment": "22433", "image": "https://img1.doubanio.com/view/subject/m/public/s2674348.jpg"}
+{"id": 168, "name": "陪我歌唱", "author": "苏打绿", "style": "", "time": "2008", "score": "9.1", "comment": "22104", "image": "https://img3.doubanio.com/view/subject/m/public/s3076261.jpg"}
+{"id": 169, "name": "It's Not Me, It's You", "author": "Lily Allen", "style": "流行", "time": "2009-02-09", "score": "8.5", "comment": "23261", "image": "https://img3.doubanio.com/view/subject/m/public/s4716636.jpg"}
+{"id": 170, "name": "The Rose~I Love Cinemas~", "author": "手嶌葵", "style": "流行", "time": "2008-03-05", "score": "9.2", "comment": "22183", "image": "https://img1.doubanio.com/view/subject/m/public/s2969728.jpg"}
+{"id": 171, "name": "我爱南京", "author": "李志", "style": "民谣", "time": "2009-10-16", "score": "8.6", "comment": "25484", "image": "https://img3.doubanio.com/view/subject/m/public/s4008894.jpg"}
+{"id": 172, "name": "消失的光年", "author": "大乔小乔", "style": "民谣", "time": "2007-07-12", "score": "8.2", "comment": "22595", "image": "https://img1.doubanio.com/view/subject/m/public/s2616588.jpg"}
+{"id": 173, "name": "还有别的办法吗", "author": "范晓萱", "style": "流行", "time": "2004", "score": "8.7", "comment": "21648", "image": "https://img3.doubanio.com/view/subject/m/public/s3636124.jpg"}
+{"id": 174, "name": "日光倾城", "author": "卡奇社", "style": "流行", "time": "2007-04-20", "score": "8.1", "comment": "22913", "image": "https://img3.doubanio.com/view/subject/m/public/s2378153.jpg"}
+{"id": 175, "name": "A Little Love", "author": "冯曦妤", "style": "流行", "time": "2008-11-20", "score": "8.4", "comment": "22032", "image": "https://img3.doubanio.com/view/subject/m/public/s3350764.jpg"}
+{"id": 176, "name": "Yellow", "author": "Coldplay", "style": "摇滚", "time": "2000-07-03", "score": "9.3", "comment": "25330", "image": "https://img3.doubanio.com/view/subject/m/public/s4087364.jpg"}
+{"id": 177, "name": "Hopes And Fears", "author": "Keane", "style": "摇滚", "time": "2004", "score": "8.9", "comment": "21181", "image": "https://img3.doubanio.com/view/subject/m/public/s1492974.jpg"}
+{"id": 178, "name": "U87", "author": "陈奕迅", "style": "流行", "time": "2005-06-07", "score": "9.3", "comment": "21932", "image": "https://img3.doubanio.com/view/subject/m/public/s3856032.jpg"}
+{"id": 179, "name": "Lady Sleep", "author": "Maximilian Hecker", "style": "民谣", "time": "2005", "score": "8.8", "comment": "20914", "image": "https://img1.doubanio.com/view/subject/m/public/s1794177.jpg"}
+{"id": 180, "name": "天空の城ラピュタ サウンドトラック 飛行石の謎", "author": "久石譲(Joe Hisaishi)", "style": "原声", "time": "1993-12-21", "score": "9.5", "comment": "21292", "image": "https://img3.doubanio.com/view/subject/m/public/s1489321.jpg"}
+{"id": 181, "name": "新长征路上的摇滚", "author": "崔健", "style": "摇滚", "time": "1989", "score": "9.2", "comment": "22919", "image": "https://img3.doubanio.com/view/subject/m/public/s8868552.jpg"}
+{"id": 182, "name": "小飞行", "author": "棉花糖", "style": "民谣", "time": "2009-05-01", "score": "7.9", "comment": "22124", "image": "https://img3.doubanio.com/view/subject/m/public/s4715963.jpg"}
+{"id": 183, "name": "春生", "author": "好妹妹乐队", "style": "民谣", "time": "2012-07-01", "score": "8.8", "comment": "21563", "image": "https://img1.doubanio.com/view/subject/m/public/s11095208.jpg"}
+{"id": 184, "name": "讓我想一想", "author": "陈绮贞", "style": "民谣", "time": "1998-07-14", "score": "9.0", "comment": "20877", "image": "https://img3.doubanio.com/view/subject/m/public/s3821060.jpg"}
+{"id": 185, "name": "未来", "author": "方大同", "style": "放克/灵歌/R&amp;B", "time": "2007-12-28", "score": "8.3", "comment": "21584", "image": "https://img3.doubanio.com/view/subject/m/public/s2839973.jpg"}
+{"id": 186, "name": "爱爱爱", "author": "方大同", "style": "流行", "time": "2006-12", "score": "8.6", "comment": "21227", "image": "https://img3.doubanio.com/view/subject/m/public/s1981880.jpg"}
+{"id": 187, "name": "世界", "author": "逃跑计划", "style": "摇滚", "time": "2011-12-31", "score": "9.0", "comment": "21617", "image": "https://img1.doubanio.com/view/subject/m/public/s28104019.jpg"}
+{"id": 188, "name": "七天", "author": "盧廣仲", "style": "民谣", "time": "2009-10-30", "score": "7.8", "comment": "21787", "image": "https://img3.doubanio.com/view/subject/m/public/s4039256.jpg"}
+{"id": 189, "name": "Nirvana", "author": "Nirvana", "style": "摇滚", "time": "2002-10-29", "score": "9.2", "comment": "20107", "image": "https://img3.doubanio.com/view/subject/m/public/s3020073.jpg"}
+{"id": 190, "name": "A Rush of  Blood to the Head", "author": "Coldplay", "style": "流行", "time": "2002", "score": "8.6", "comment": "21579", "image": "https://img3.doubanio.com/view/subject/m/public/s8904216.jpg"}
+{"id": 191, "name": "The Velvet Underground & Nico", "author": "The Velvet Underground", "style": "摇滚", "time": "1967-04", "score": "9.0", "comment": "22260", "image": "https://img3.doubanio.com/view/subject/m/public/s1883423.jpg"}
+{"id": 192, "name": "Love The Way You Lie", "author": "Eminem", "style": "说唱", "time": "2010-08-20", "score": "9.3", "comment": "21779", "image": "https://img1.doubanio.com/view/subject/m/public/s4420058.jpg"}
+{"id": 193, "name": "天空", "author": "王菲", "style": "流行", "time": "1994", "score": "9.3", "comment": "21345", "image": "https://img3.doubanio.com/view/subject/m/public/s3681285.jpg"}
+{"id": 194, "name": "The Boat That Rocked", "author": "Original Soundtrack", "style": "原声", "time": "2009-03-30", "score": "9.2", "comment": "19387", "image": "https://img3.doubanio.com/view/subject/m/public/s4194004.jpg"}
+{"id": 195, "name": "(What's The Story) Morning Glory?", "author": "Oasis", "style": "摇滚", "time": "1995", "score": "9.2", "comment": "20962", "image": "https://img3.doubanio.com/view/subject/m/public/s1944493.jpg"}
+{"id": 196, "name": "PUSSY", "author": "陈绮贞", "style": "民谣", "time": "2007-02-08", "score": "8.7", "comment": "20093", "image": "https://img3.doubanio.com/view/subject/m/public/s2144095.jpg"}
+{"id": 197, "name": "呼吸", "author": "Salyu", "style": "原声", "time": "2001", "score": "9.0", "comment": "19795", "image": "https://img1.doubanio.com/view/subject/m/public/s2714357.jpg"}
+{"id": 198, "name": "Fallen", "author": "Evanescence", "style": "摇滚", "time": "2003", "score": "8.5", "comment": "20329", "image": "https://img3.doubanio.com/view/subject/m/public/s2189392.jpg"}
+{"id": 199, "name": "黑豹", "author": "黑豹", "style": "摇滚", "time": "1992-12-01", "score": "9.1", "comment": "20980", "image": "https://img3.doubanio.com/view/subject/m/public/s1401153.jpg"}
+{"id": 200, "name": "十年一刻", "author": "苏打绿", "style": "流行", "time": "2010-08-27", "score": "8.8", "comment": "20574", "image": "https://img1.doubanio.com/view/subject/m/public/s4462549.jpg"}
+{"id": 201, "name": "恋爱的力量", "author": "梁静茹", "style": "流行", "time": "2003年3月", "score": "8.9", "comment": "19957", "image": "https://img1.doubanio.com/view/subject/m/public/s1412559.jpg"}
+{"id": 202, "name": "Suede", "author": "Suede", "style": "摇滚", "time": "1993", "score": "8.9", "comment": "20659", "image": "https://img3.doubanio.com/view/subject/m/public/s1496506.jpg"}
+{"id": 203, "name": "The Bends", "author": "Radiohead", "style": "摇滚", "time": "1995", "score": "9.1", "comment": "21289", "image": "https://img1.doubanio.com/view/subject/m/public/s4713649.jpg"}
+{"id": 204, "name": "琵琶相", "author": "林海", "style": "轻音乐", "time": "2004", "score": "9.3", "comment": "19548", "image": "https://img3.doubanio.com/view/subject/m/public/s4716282.jpg"}
+{"id": 205, "name": "？", "author": "陈奕迅", "style": "流行", "time": "2011-11-11", "score": "8.0", "comment": "21525", "image": "https://img1.doubanio.com/view/subject/m/public/s6988468.jpg"}
+{"id": 206, "name": "少年故事", "author": "彭坦", "style": "流行", "time": "2007-07-23", "score": "8.0", "comment": "20820", "image": "https://img3.doubanio.com/view/subject/m/public/s2616115.jpg"}
+{"id": 207, "name": "黑暗之光", "author": "雷光夏", "style": "民谣", "time": "2006-12-01", "score": "8.8", "comment": "19627", "image": "https://img3.doubanio.com/view/subject/m/public/s1960062.jpg"}
+{"id": 208, "name": "我要我们在一起", "author": "范晓萱", "style": "流行", "time": "1999-11-1", "score": "8.7", "comment": "19687", "image": "https://img3.doubanio.com/view/subject/m/public/s1432740.jpg"}
+{"id": 209, "name": "人生海海", "author": "五月天", "style": "摇滚", "time": "2001-07-06", "score": "9.2", "comment": "20081", "image": "https://img1.doubanio.com/view/subject/m/public/s1945209.jpg"}
+{"id": 210, "name": "Maybe I'm Dreaming", "author": "Owl City", "style": "流行", "time": "2008-03-18", "score": "8.4", "comment": "19818", "image": "https://img3.doubanio.com/view/subject/m/public/s3409351.jpg"}
+{"id": 211, "name": "工体东路没有人", "author": "李志", "style": "民谣", "time": "2009-01-22", "score": "9.0", "comment": "19960", "image": "https://img1.doubanio.com/view/subject/m/public/s3561838.jpg"}
+{"id": 212, "name": "Let It Be", "author": "The Beatles", "style": "摇滚", "time": "1990-10-25", "score": "9.3", "comment": "19686", "image": "https://img3.doubanio.com/view/subject/m/public/s1410146.jpg"}
+{"id": 213, "name": "Alright,Still", "author": "Lily Allen", "style": "流行", "time": "2006", "score": "8.3", "comment": "19545", "image": "https://img3.doubanio.com/view/subject/m/public/s2824792.jpg"}
+{"id": 214, "name": "大小說家", "author": "林宥嘉", "style": "流行", "time": "2012-06-22", "score": "7.9", "comment": "21183", "image": "https://img1.doubanio.com/view/subject/m/public/s10385947.jpg"}
+{"id": 215, "name": "越长大越孤单", "author": "牛奶@咖啡", "style": "流行", "time": "2008-03-18", "score": "7.6", "comment": "21969", "image": "https://img3.doubanio.com/view/subject/m/public/s2975545.jpg"}
+{"id": 216, "name": "燕尾蝶", "author": "梁静茹", "style": "流行", "time": "2004", "score": "8.0", "comment": "21152", "image": "https://img1.doubanio.com/view/subject/m/public/s3595798.jpg"}
+{"id": 217, "name": "原谅我就是这样的女生", "author": "戴佩妮", "style": "流行", "time": "2009-05-16", "score": "7.6", "comment": "20784", "image": "https://img3.doubanio.com/view/subject/m/public/s3780711.jpg"}
+{"id": 218, "name": "传奇", "author": "王菲", "style": "民谣", "time": "2010-11-05", "score": "9.2", "comment": "19681", "image": "https://img3.doubanio.com/view/subject/m/public/s4185764.jpg"}
+{"id": 219, "name": "Under the Radar", "author": "Daniel Powter", "style": "流行", "time": "2008-10-14", "score": "8.3", "comment": "19070", "image": "https://img1.doubanio.com/view/subject/m/public/s3273497.jpg"}
+{"id": 220, "name": "知足 MV / Karaoke DVD", "author": "五月天", "style": "流行", "time": "2006", "score": "9.2", "comment": "18304", "image": "https://img3.doubanio.com/view/subject/m/public/s4713371.jpg"}
+{"id": 221, "name": "我的歌声里", "author": "曲婉婷", "style": "流行", "time": "2012-07-01", "score": "7.7", "comment": "19300", "image": "https://img3.doubanio.com/view/subject/m/public/s11176273.jpg"}
+{"id": 222, "name": "王菲", "author": "王菲", "style": "流行", "time": "1997-09-30", "score": "9.2", "comment": "20559", "image": "https://img3.doubanio.com/view/subject/m/public/s3336530.jpg"}
+{"id": 223, "name": "信仰在空中飘扬", "author": "汪峰", "style": "摇滚", "time": "2009-07-25", "score": "8.7", "comment": "19024", "image": "https://img1.doubanio.com/view/subject/m/public/s3910069.jpg"}
+{"id": 224, "name": "[i]", "author": "莫文蔚", "style": "流行", "time": "2002-04-29", "score": "8.7", "comment": "19304", "image": "https://img1.doubanio.com/view/subject/m/public/s3944348.jpg"}
+{"id": 225, "name": "Songs About Jane", "author": "Maroon 5", "style": "流行", "time": "2002", "score": "8.5", "comment": "19415", "image": "https://img1.doubanio.com/view/subject/m/public/s2382869.jpg"}
+{"id": 226, "name": "Back To Black", "author": "Amy Winehouse", "style": "放克/灵歌/R&amp;B", "time": "2006-11-30", "score": "8.5", "comment": "19483", "image": "https://img3.doubanio.com/view/subject/m/public/s2146936.jpg"}
+{"id": 227, "name": "Demo 3", "author": "陈绮贞", "style": "流行", "time": "2001-11-09", "score": "9.1", "comment": "18013", "image": "https://img1.doubanio.com/view/subject/m/public/s4571919.jpg"}
+{"id": 228, "name": "克卜勒", "author": "孙燕姿", "style": "流行", "time": "2014-02-27", "score": "8.4", "comment": "20458", "image": "https://img1.doubanio.com/view/subject/m/public/s27220328.jpg"}
+{"id": 229, "name": "E=MC²", "author": "Mariah Carey", "style": "流行", "time": "2008-04-16", "score": "8.5", "comment": "18909", "image": "https://img1.doubanio.com/view/subject/m/public/s2982879.jpg"}
+{"id": 230, "name": "9 Crimes", "author": "Damien Rice", "style": "民谣", "time": "2006-11-27", "score": "9.4", "comment": "17474", "image": "https://img3.doubanio.com/view/subject/m/public/s3341606.jpg"}
+{"id": 231, "name": "如果有一件事是重要的", "author": "陈珊妮", "style": "流行", "time": "2008-11-22", "score": "8.2", "comment": "18794", "image": "https://img3.doubanio.com/view/subject/m/public/s3285190.jpg"}
+{"id": 232, "name": "赤裸裸", "author": "郑钧", "style": "摇滚", "time": "1994", "score": "8.8", "comment": "19141", "image": "https://img3.doubanio.com/view/subject/m/public/s9105445.jpg"}
+{"id": 233, "name": "阿岳正传", "author": "张震岳", "style": "流行", "time": "2004-06-24", "score": "9.0", "comment": "17782", "image": "https://img3.doubanio.com/view/subject/m/public/s3899296.jpg"}
+{"id": 234, "name": "3颗猫饼干", "author": "朱玫玲", "style": "", "time": "2004/04/26", "score": "9.1", "comment": "17024", "image": "https://img1.doubanio.com/view/subject/m/public/s1416778.jpg"}
+{"id": 235, "name": "21 Guns", "author": "Green Day", "style": "", "time": "2009-07-14", "score": "9.2", "comment": "17987", "image": "https://img1.doubanio.com/view/subject/m/public/s4468079.jpg"}
+{"id": 236, "name": "看我72变", "author": "蔡依林 Jolin Tsai", "style": "流行", "time": "2003-03-07", "score": "8.2", "comment": "22112", "image": "https://img1.doubanio.com/view/subject/m/public/s1506028.jpg"}
+{"id": 237, "name": "第二人生 明日版", "author": "五月天", "style": "流行", "time": "2011-12-20", "score": "9.0", "comment": "17797", "image": "https://img3.doubanio.com/view/subject/m/public/s7018733.jpg"}
+{"id": 238, "name": "Definitely Maybe", "author": "Oasis", "style": "摇滚", "time": "1994-08-30", "score": "9.0", "comment": "18651", "image": "https://img3.doubanio.com/view/subject/m/public/s4714001.jpg"}
+{"id": 239, "name": "First Love", "author": "宇多田ヒカル", "style": "流行", "time": "1999", "score": "9.1", "comment": "18612", "image": "https://img1.doubanio.com/view/subject/m/public/s1490767.jpg"}
+{"id": 240, "name": "阿密特", "author": "张惠妹", "style": "流行", "time": "2009-06-26", "score": "7.7", "comment": "19787", "image": "https://img3.doubanio.com/view/subject/m/public/s3856684.jpg"}
+{"id": 241, "name": "心·跳", "author": "王力宏 Leehom Wang", "style": "流行", "time": "2008-12-26", "score": "7.1", "comment": "20928", "image": "https://img3.doubanio.com/view/subject/m/public/s3485794.jpg"}
+{"id": 242, "name": "xx", "author": "The xx", "style": "摇滚", "time": "2009-08-17", "score": "8.7", "comment": "18825", "image": "https://img3.doubanio.com/view/subject/m/public/s3962066.jpg"}
+{"id": 243, "name": "回蔚", "author": "莫文蔚", "style": "流行", "time": "2009-06-23", "score": "8.0", "comment": "18724", "image": "https://img3.doubanio.com/view/subject/m/public/s3885892.jpg"}
+{"id": 244, "name": "如果看見地獄，我就不怕魔鬼", "author": "Tizzy Bac", "style": "流行", "time": "2009-02-13", "score": "8.1", "comment": "18202", "image": "https://img3.doubanio.com/view/subject/m/public/s3751353.jpg"}
+{"id": 245, "name": "我们是五月天", "author": "五月天", "style": "", "time": "2003年4月17日", "score": "9.3", "comment": "17667", "image": "https://img1.doubanio.com/view/subject/m/public/s27076627.jpg"}
+{"id": 246, "name": "王妃", "author": "萧敬腾", "style": "流行", "time": "2009-07-17", "score": "7.7", "comment": "19479", "image": "https://img1.doubanio.com/view/subject/m/public/s3885797.jpg"}
+{"id": 247, "name": "Poker Face", "author": "Lady Gaga", "style": "", "time": "September 23, 2008", "score": "8.7", "comment": "18716", "image": "https://img3.doubanio.com/view/subject/m/public/s3598342.jpg"}
+{"id": 248, "name": "唐朝", "author": "唐朝", "style": "摇滚", "time": "1992-12", "score": "9.0", "comment": "17852", "image": "https://img1.doubanio.com/view/subject/m/public/s8903729.jpg"}
+{"id": 249, "name": "寻找周杰伦", "author": "周杰伦", "style": "流行", "time": "2003-12-1", "score": "8.5", "comment": "19714", "image": "https://img1.doubanio.com/view/subject/m/public/s3726558.jpg"}
+{"id": 250, "name": "她说", "author": "林俊杰", "style": "流行", "time": "2010-12-08", "score": "7.7", "comment": "21006", "image": "https://img3.doubanio.com/view/subject/m/public/s4550552.jpg"}

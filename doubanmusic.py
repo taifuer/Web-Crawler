@@ -6,6 +6,7 @@
 """
 
 # -*- coding:utf-8 -*-
+
 """
 @name:   main.py
 @time:   2019 / 05 / 02
@@ -17,6 +18,8 @@ from bs4 import BeautifulSoup
 import re
 import csv
 import json
+import os
+import sqlite3
 
 # 请求头
 headers = {
@@ -30,9 +33,20 @@ def write2File(filename, info):
 # 保存为CSV
 def save2CSV(filename, info):
     with open(filename, 'a+', encoding='utf-8') as f:
-        fieldnames = ['name', 'author', 'style', 'time', 'score', 'comment', 'image']
+        fieldnames = ['id', 'name', 'author', 'style', 'time', 'score', 'comment', 'image']
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writerow(info)
+# 保存到数据库
+def save2DB(dbname, info):
+    conn = sqlite3.connect(dbname)
+    cur = conn.cursor()
+    music = (info['id'], info['name'], info['author'], info['style'],
+             info['time'], info['score'], info['comment'], info['image'])
+    cur.execute('''
+        insert into musics(musicId, musicName, musicAuthor, musicStyle, musicTime, 
+        musicScore, musicComment, musicImage) values (?, ?, ?, ?, ?, ?, ?, ?)''', music)
+    conn.commit()
+
 
 # 获取页面html代码
 def getOnePage(url):
@@ -46,9 +60,14 @@ def getOnePage(url):
     except Exception:
         return None
 
+id = 0
+
 # 获取指定内容
 def parseOnePage(html):
     soup = BeautifulSoup(html, 'lxml')
+    # 专辑id
+    global id
+    id = id + 1
     # 专辑名称
     name = soup.find(id='wrapper').h1.span.get_text()
     # 专辑作者
@@ -73,6 +92,7 @@ def parseOnePage(html):
     image = soup.find(class_='nbg').attrs['href']
 
     info = {
+        'id': id,
         'name': name,
         'author': author,
         'style': style,
@@ -91,8 +111,30 @@ urls = ['https://music.douban.com/top250?start={}'.format(i*25) for i in range(0
 if __name__ == '__main__':
     filename1 = 'doubanmusic.csv'
     filename2 = 'doubanmusic.txt'
+    dbname = 'doubanmusic.db'
+
+    if os.path.exists(dbname):
+        os.remove(dbname)
+    conn = sqlite3.connect(dbname)
+    cur = conn.cursor()
+    cur.execute('''
+        create table musics
+        (
+            musicId int primary key not null,
+            musicName text not null,
+            musicAuthor text not null,
+            musicStyle text,
+            musicTime text,
+            musicScore real not null,
+            musicComment integer not null,
+            musicImage text
+        );
+        '''
+    )
+    conn.commit()
+
     with open(filename1, 'w', encoding='utf-8') as f:
-        fieldnames = ['name', 'author', 'style', 'time', 'score', 'comment', 'image']
+        fieldnames = ['id', 'name', 'author', 'style', 'time', 'score', 'comment', 'image']
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
 
@@ -107,3 +149,4 @@ if __name__ == '__main__':
              print(itemInfo)
              save2CSV(filename1, itemInfo)
              write2File(filename2, itemInfo)
+             save2DB(dbname, itemInfo)

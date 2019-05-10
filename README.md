@@ -29,7 +29,7 @@
   {"bookRank": "1", "bookTitle": "追风筝的人", "bookImage": "https://img3.doubanio.com/view/subject/m/public/s1727290.jpg", "bookLink": "https://book.douban.com/subject/1770782/", "bookInfo": "[美] 卡勒德·胡赛尼 / 李继宏 / 上海人民出版社 / 2006-5 / 29.00元", "bookScore": "8.9", "bookComment": "437742人评价", "bookQuote": "为你，千千万万遍"}
   ```
 
-- [起点中文网全部作品](https://www.qidian.com/all?page=1)（lxml和xpath）
+- [起点中文网全部作品](https://www.qidian.com/all?page=1)（lxml + xpath）
 
   ```json
   {"title": "凡人修仙之仙界篇", "author": "忘语", "type": "仙侠 · 神话修真", "integrity": "连载中", "introduction": "凡人修仙，风云再起时空穿梭，轮回逆转金仙太乙，大罗道祖三千大道，法则至尊《凡人修仙传》仙界篇，一个韩立叱咤仙界的故事，一个凡人小子修仙的不灭传说。特说明下，没有看过前传的书友，并不影响本书的阅读体验，"}
@@ -59,11 +59,13 @@
   {"title": "Apple iPhone XR (A2108) 128GB 黑色 移动联通电信4G手机", "price": "5749.00", "seller": "Apple产品京东自营旗舰店", "url": "https://item.jd.com/100000177760.html", "image": "https://img10.360buyimg.com/n7/jfs/t1/3405/18/3537/69901/5b997c0aE5dc8ed9f/a2c208410ae84d1f.jpg"}
   ```
 
-- [豆瓣音乐TOP250](https://music.douban.com/top250?start=0)（BeautifulSoup + 正则表达式）
+- [豆瓣音乐TOP250](https://music.douban.com/top250?start=0)（BeautifulSoup + 正则表达式 + sqlite）
 
   ```json
   {"name": "We Sing. We Dance. We Steal Things.", "author": "Jason Mraz", "style": "民谣", "time": "2008-05-13", "score": "9.1", "comment": "105760", "image": "https://img3.doubanio.com/view/subject/m/public/s2967252.jpg"}
   ```
+  
+  ![](https://ae01.alicdn.com/kf/HTB1LcuFViLaK1RjSZFx761mPFXam.png)
 
 ### 参考
 
