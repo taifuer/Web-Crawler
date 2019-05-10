@@ -59,6 +59,12 @@
   {"title": "Apple iPhone XR (A2108) 128GB 黑色 移动联通电信4G手机", "price": "5749.00", "seller": "Apple产品京东自营旗舰店", "url": "https://item.jd.com/100000177760.html", "image": "https://img10.360buyimg.com/n7/jfs/t1/3405/18/3537/69901/5b997c0aE5dc8ed9f/a2c208410ae84d1f.jpg"}
   ```
 
+- [豆瓣音乐TOP250](https://music.douban.com/top250?start=0)（BeautifulSoup + 正则表达式）
+
+  ```json
+  {"name": "We Sing. We Dance. We Steal Things.", "author": "Jason Mraz", "style": "民谣", "time": "2008-05-13", "score": "9.1", "comment": "105760", "image": "https://img3.doubanio.com/view/subject/m/public/s2967252.jpg"}
+  ```
+
 ### 参考
 
 - [Python3网络爬虫开发实战](https://germey.gitbooks.io/python3webspider/content/)
