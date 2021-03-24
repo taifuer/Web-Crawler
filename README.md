@@ -75,5 +75,5 @@
 
 ### 参考
 
-- [Python3网络爬虫开发实战](https://germey.gitbooks.io/python3webspider/content/)
+- [Python3网络爬虫开发实战](https://python3webspider.cuiqingcai.com/)
 - [Python从入门到实战·爬虫](https://ke.qq.com/course/395289)
